@@ -556,17 +556,17 @@
 "Would you like to create an asset group with this folder's contents?" = "Вы хотите создать группу Вложений с содержимым этой папки?";
 
 // Embed Assets
-"Are you sure you would like to embed all assets into the project file? This will increase the project file size and cannot be undone." = "Are you sure you would like to embed all assets into the project file? This will increase the project file size and cannot be undone.";
-"Yes, Embed Assets" = "Yes, Embed Assets";
-"All assets have now been embedded into this Blocs project file. Would you like to enable automatic asset embedding for any assets that are added to this project in the future?" = "All assets have now been embedded into this Blocs project file. Would you like to enable automatic asset embedding for any assets that are added to this project in the future?";
+"Are you sure you would like to embed all assets into the project file? This will increase the project file size and cannot be undone." = "Вы уверены, что хотите встроить все вложения в файл проекта? Это увеличит размер файла проекта и это не может быть отменено.";
+"Yes, Embed Assets" = "Да, Встроить вложения";
+"All assets have now been embedded into this Blocs project file. Would you like to enable automatic asset embedding for any assets that are added to this project in the future?" = "Все вложения успешно встроены в этот файл проекта Blocs. Хотите ли вы включить автоматическое встраивание всех вложений в этот проект в будущем??";
 
 
 // Asset Manager Import Alert
-"There is already an asset in your project with the name (%@). Multiple assets with identical file names are not allowed as all assets are placed within the same directory when your site is exported. Would you like to replace the current file with this name?" = "There is already an asset in your project with the name (%@). Multiple assets with identical file names are not allowed as all assets are placed within the same directory when your site is exported. Would you like to replace the current file with this name?";
+"There is already an asset in your project with the name (%@). Multiple assets with identical file names are not allowed as all assets are placed within the same directory when your site is exported. Would you like to replace the current file with this name?" = "В вашем проекте уже есть вложение с именем (%@). Несколько вложений с одинаковыми именами файлов недопустимы, так как все вложения помещаются в один каталог при экспорте сайта. Вы хотите заменить текущий файл с таким именем?";
 
-"There is already an asset in your project with the name (%@). Multiple assets with identical file names are not allowed as all assets are placed within the same directory when your site is exported. If you would like to replace the image that already exist in this project with that name, please add the asset via the Asset Manager." = "There is already an asset in your project with the name (%@). Multiple assets with identical file names are not allowed as all assets are placed within the same directory when your site is exported. If you would like to replace the image that already exist in this project with that name, please add the asset via the Asset Manager.";
-"Replace Asset" = "Replace Asset";
-"Duplicate Asset" = "Duplicate Asset";
+"There is already an asset in your project with the name (%@). Multiple assets with identical file names are not allowed as all assets are placed within the same directory when your site is exported. If you would like to replace the image that already exist in this project with that name, please add the asset via the Asset Manager." = "В вашем проекте уже есть вложение с именем (%@). Использование нескольких активов с одинаковыми именами файлов не допускается, поскольку при экспорте сайта все активы размещаются в одном каталоге. Если вы хотите заменить уже существующее в проекте изображение с таким именем, пожалуйста, добавьте вложение через Менеджер Вложений.";
+"Replace Asset" = "Заменить вложение";
+"Duplicate Asset" = "Дублировать вложение";
 
 
 
