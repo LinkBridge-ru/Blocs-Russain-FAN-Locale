@@ -224,10 +224,10 @@
 "Center Solid" = "Линия по Центру";
 "Full Dashed" = "Полный Пунктир";
 "Full Solid" = "Полная Линия";
-"Background Image" = "Фоновое Изображение";
-"Video Background" = "Фоновое Видео";
-"Video Background" = "Фоновое Видео";
-"Export Custom Bloc" = "Экспортировать Свой Блок";
+"Background Image" = "Фоновое изображение";
+"Video Background" = "Фоновое видео";
+"Video Background" = "Фоновое видео";
+"Export Custom Bloc" = "Экспортировать свой блок";
 "Export Thumb" = "Экспортировать Эскиз";
 "To Dynamic Area" = "В Динамическую Зону";
 "Global" = "Глобально";
@@ -321,9 +321,9 @@
 "Export Settings" = "Параметры экспорта";
 "Extension Manager" = "Менеджер Расширений";
 "Image Editor" = "Редактор Изображений";
-"SEO Helper" = "Помощьник SEO";
+"SEO Helper" = "Помощник SEO";
 "Wordpress Custom Data Manager" = "Менеджер Пользовательских Данных";
-"Generate Pages" = "Сгенерировать СТраницы";
+"Generate Pages" = "Сгенерировать страницы";
 "Launch Solis" = "Запустить Solis";
 "Academy" = "Академия";
 "Missing Font Manager" = "Отсутствет Менеджер Шрифтов";
@@ -331,7 +331,7 @@
 
 
 // Button Labels
-"OK" = "OK";
+"OK" = "ОК";
 "Yes" = "Да";
 "Save Changes" = "Сохранить изменения";
 "Don't Save" = "Не сохранять";
@@ -352,26 +352,26 @@
 "Add" = "Добавить";
 "Add To" = "Добавить в";
 "Yes, I understand" = "Да, я понимаю";
-"Restart Blocs Now" = "Перезапустить Blocs Сейчас";
+"Restart Blocs Now" = "Перезапустить Blocs сейчас";
 "Move Bloc" = "Переместить Bloc";
 "Yes, Delete" = "Да, Удалить";
 "Yes, Generate" = "Да, Сгенерировать";
 "None" = "Нет";
 "Check" = "Проверить";
 "Delete Assets" = "Удалить вложение";
-"View Release Notes" = "Посмотреть Заметки Релиза";
+"View Release Notes" = "Посмотреть заметки релиза";
 "Remove" = "Убрать";
 "Back" = "Вернуть";
 "Forward" = "Вперёд";
 "Begin Setup" = "Начать настройку";
-"Get Started" = "Приступить к Работе";
+"Get Started" = "Приступить к работе";
 "Get Info" = "Получить информацию";
-"Open Project Settings" = "Открыть Настройки Проекта";
+"Open Project Settings" = "Открыть настройки проекта";
 "Show" = "Показать";
 "Hide" = "Скрыть";
-"Browse Store" = "Посетить Магазин";
+"Browse Store" = "Посетить магазин";
 "Find" = "Найти";
-"Academy Home" = "Дом Академии";
+"Academy Home" = "Дом академии";
 
 
 // Image Well Button Tooltips
@@ -396,14 +396,14 @@
 "Buy" = "Купить";
 "Install" = "Установить";
 "Download" = "Скачать";
-"View product in Blocs store." = "Посмотреть Товар в Магазине Blocs.";
-"View product preview." = "Предпросмотр Продукта.";
+"View product in Blocs store." = "Посмотреть товар в магазине Blocs.";
+"View product preview." = "Предпросмотр продукта.";
 
 
 
 // Modal Titles
 "Warning" = "Предупреждение";
-"Add Image" = "Добавить Изображение";
+"Add Image" = "Добавить изображение";
 
 // Missing Blocs Project
 "This file (%@) can no longer be found. It may have been renamed or deleted." = "Этот файл (%@) не найден. Он может быть переименован или удалён.";
