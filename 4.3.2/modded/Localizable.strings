@@ -187,8 +187,8 @@
 "Toggle Right" = "Переместить Вправо"; // Check it
 
 // Text Insert Sub Menu
-"Header" = "Заголовок";
-"Heading" = "Направление";
+"Header" = "Заголовок"; // Check it
+"Heading" = "Заголовок";
 "Divider" = "Разделитель";
 
 // Purge Project Data Sub Menu
