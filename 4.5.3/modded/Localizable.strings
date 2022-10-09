@@ -843,6 +843,7 @@
 "SVG Stroke" = "SVG Stroke";
 "Flex Container" = "Гибкий Контейнер (Flex)";
 "Flex Child" = "Flex Child";
+"Rules" = "Правила";
 
 // Class Editor Labels
 "Min:" = "Min:";
