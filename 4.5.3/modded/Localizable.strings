@@ -1,0 +1,2585 @@
+/*
+  Localizable.strings
+  Blocs v.4.3.2
+
+  Created by Norman Sheeran on 04/07/2017.
+  Перевод на Русский: © MKC-MKC (GitHub)
+  Copyright (c) 2021 Norman Sheeran. All rights reserved.
+*/
+
+// Main Menu Items
+"File" = "Файл";
+"Edit" = "Редактировать";
+"Page" = "Страница";
+"View" = "Просмотр";
+"Mode" = "Режим";
+"Text" = "Текст";
+"Assets" = "Вложения";
+"Window" = "Окно";
+"Developer" = "Разработчик";
+"Help" = "Помощь";
+
+// Blocs Menu Items
+"About Blocs" = "Об Blocs";
+"Preferences..." = "Параметры...";
+"Check for Updates..." = "Проверить обновления...";
+"Services" = "Сервисы";
+"Hide Blocs" = "Скрыть Blocs";
+"Hide Others" = "Скрыть прочее";
+"Show All" = "Показать все";
+"Quit Blocs" = "Завершить Blocs";
+
+// File Menu Items
+"New" = "Новый проект";
+"Open..." = "Открыть проект...";
+"Open Recent" = "Открыть недавние проекты";
+"Open Backup Vault" = "Открыть хранилище копий проектов";
+"Close" = "Закрыть проект";
+"Save" = "Сохранить проект";
+"Save As..." = "Сохранить проект как...";
+"Project Settings" = "Настройки проекта";
+"Export" = "Экспорт проекта";
+
+// Edit Menu
+"Undo" = "Отменить";
+"Redo" = "Вернуть";
+"Cut" = "Вырезать";
+"Copy" = "Копировать";
+"Copy Classes" = "Скопировать класс";
+"Paste" = "Вставить";
+"Paste Classes" = "Вставить классы";
+"Select All" = "Выделить всё";
+"Remove Classes" = "Удалить классы";
+
+// Page Menu
+"Select" = "Выбрать";
+"Move" = "Переместить";
+"Settings" = "Настройки";
+"Page Guides" = "Путеводитель по страницам";
+"Duplicate" = "Дублировать";
+"Delete" = "Удалить";
+"Multi Delete" = "Массовое удаление";
+"Add To Template Library" = "Добавить в Библиотеку шаблонов";
+
+// Bloc Menu Items
+"Add To Bloc Library" = "Добавить в Библиотеку блоков";
+
+// Bric Menu Items
+"Add Bric Above" = "Добавить Блок Выше";
+"Add Bric Below" = "Добавить Блок Ниже";
+"Scale" = "Масштаб";
+"Align" = "Выравн.";
+"Opacity" = "Прозрачность";
+"Toggle Visibility on Canvas" = "Переключить видимости на холсте";
+"Toggle Custom Brics on/off" = "Включить/выключить пользовательские модули";
+
+// View Menu Items
+"Preview Mode" = "Режим предпросмотра";
+"Zoom In" = "Увеличить";
+"Zoom Out" = "Уменьшить";
+"Zoom 100%" = "Зум 100%";
+"Zoom 50%" = "Зум 50%";
+"Outline Mode" = "Контурный режим";
+"Wireframe Mode" = "Каркасный режим";
+"Dark Site Mode" = "Тёмный режим сайта";
+"Layer Tree" = "Дерево слоёв";
+"Page Navigator" = "Навигатор страниц";
+"Interface" = "Интерфейс";
+"Extra Large" = "Очень большой";
+"Large" = "Большой";
+"Medium" = "Средний";
+"Small" = "Маленький";
+"Extra Small" = "Очень маленький";
+"Preview In Browser" = "Предпросмотр в браузере";
+
+// Visual Impairment Filter Titles
+"Protanopia - Red Blind" = "Протанопия - Тусклый Красный";
+"Protanomaly - Red Weak" = "Протаномалия - Слабый красный";
+"Deuteranopia - Green Blind" = "Дейтеранопия - Тусклый Зелёный";
+"Deuteranomaly - Green Weak" = "Дейтераномалия (Дальтонизм) - Слабый Зелёный";
+"Tritanopia - Blue Blind" = "Тританопия (Дальтонизм) - Тусклый Синий";
+"Tritanomaly - Blue Weak" = "Тританомалия - Слабый Синий";
+"Achromatomaly - BCM" = "Ахроматомалия - Монохромазия Синих Колбочек";
+"Achromatopsia - Monochromacy" = "Ахроматопсия - Монохроматика";
+
+"Hide Layer Tree" = "Скрыть Дерево Слоев";
+"Hide Inspector" = "Скрыть Инспектор";
+"Hide Interface" = "Скрыть Интерфейс";
+"Toggle Add Bloc Buttons" = "Переключить: Добавить Кнопку Bloc";
+"Toggle Add Bric Buttons" = "Переключить: Добавить Кнопку Bric";
+
+// Mode Menu Items
+"Normal Mode" = "Нормальный Режим";
+"Drop Mode" = "Режим Перетаскивания (Drop)";
+
+// Text Menu Items
+"Underline" = "Подчёркивание";
+"Italic" = "Курсив";
+"Bold" = "Жирный";
+"Strikethrough" = "Зачёркнутый";
+"Edit Content" = "Редактировать контент";
+"Edit in Writer Mode" = "Редактировать в режиме писателя";
+"Clear Formatting" = "Очистить форматирование";
+"Split at Cursor" = "Разделение по курсору";
+"Reset Alignment" = "Сбросить выравнивание";
+"Generate Lorem Ipsum" = "Сгенерировать текст рыбу";
+"Split at selection" = "объединить с выбранным";
+"Insert" = "Вставка";
+"Open Font Manager" = "Открыть менеджер шрифтов";
+
+// Assets Menu Items
+"Import Assets" = "Импортировать вложения";
+"Embed All Assets In Project" = "Встроить все вложения в проект";
+
+// Window Menu Items
+"Minimize" = "Минимизировать";
+"Full Screen" = "Полноекранно";
+"Zoom" = "Увеличить";
+"Window Frame Size" = "Оконный режим";
+
+// Developer menu Items
+"Bric Builder" = "Конструктор модулей";
+"Bloc Editor" = "Редактор блоков";
+"Developer Console" = "Консоль разработчика";
+"Developer Inspector (Preview Mode)" = "Инспектор разработчика (Бета)"; // Check it (Бета)
+"Purge Project Data" = "Очистить Данные проекта";
+
+// Help Menu Items
+"User Documentation" = "Пользовательская Документация";
+"Keyboard Shortcuts" = "Клавиатурные Сокращения";
+"Blocs Store" = "Магазин Blocs";
+"Community Forum" = "Сообщество Blocs";
+"Follow Blocs on Twitter" = "Подписаться на Blocs в Твиттере";
+"Upgrade To Blocs Plus" = "Обновиться До Blocs Plus";
+"Get Support" = "Получить Поддержку";
+"Generate App Status Report" = "Сгенерировать Отчёт О Состоянии Приложения";
+"Deactivate License Number" = "Деактивировать Лицензионный Номер";
+
+
+// Export Sub Menu
+"Quick Export" = "Быстрый экспорт";
+"Export As..." = "Экспортировать как...";
+"Generate Package" = "Сгенерировать пакет";
+
+// Export As Sub Menu
+"Wordpress Theme" = "Тема WordPress";
+"Page Template" = "Шаблон страницы";
+"Custom Bloc" = "Кастомный модуль";
+"Image" = "Картинка";
+
+// Select Page Sub Menu
+"Next" = "Следующий";
+"Previous" = "Предыдущий";
+
+// Move Page Sub Menu
+"Up" = "Вверх";
+"Down" = "Вниз";
+
+// Select Bloc Sub Menu
+"Above" = "Выше";
+"Below" = "Ниже";
+
+// Move Bloc Sub Menu
+"To Another Page" = "На другую страницу";
+
+// Select Bric Sub Menu
+"Left" = "Влево";
+"Right" = "Вправо";
+
+// Align Bric Sub Menu
+"Toggle Left" = "Переместить Влево"; // Check it
+"Toggle Right" = "Переместить Вправо"; // Check it
+
+// Text Insert Sub Menu
+"Header" = "Заголовок"; // Check it
+"Heading" = "Заголовок";
+"Divider" = "Разделитель";
+
+// Purge Project Data Sub Menu
+"Clear All Custom Classes" = "Очистить Все Пользовательские Классы";
+"Clear All Project Assets" = "Очистить Все Пользовательские Вложения";
+"Clear All Duplicate Embedded Assets" = "Очистить Все Дубликаты Встроенных Вложений";
+"Clear All Global Swatches" = "Очистить Все Глобальные Цвета";
+"Clear All Background Images" = "Очистить Все Фоновые Изображения";
+"Clear All Custom Project Data" = "Очистить все данные проекта";
+
+// Context Menu Items
+"Select Parent" = "Выбрать родителя"; // Check it
+"Form" = "Формы";
+"Card" = "Карточки";
+"Card Head" = "Заголовки карточки"; // too
+"Card Body" = "Тело карточки"; // too
+"Card Footer" = "Тело Карточки"; // too
+"List" = "Списки";
+"Alert" = "Уведомления";
+"Container Div" = "Div Контейнер";
+"Wrap in Div Container" = "Завернуть в Div Контейнер";
+"Exclude From Export" = "Исключить из экспорта";
+"Colour (%@)" = "Цвет (%@)";
+"Background Colour (%@)" = "Цвет Фона (%@)";
+"Open Class Manager" = "Открыть Менеджер Классов";
+"Small - 20px" = "Маленький - 20px";
+"Medium - 50px" = "Средний - 50px";
+"Large - 100px" = "Большой - 100px";
+"XL - 150px" = "XL - 150px";
+"XXL - 200px" = "XXL - 200px";
+"Edge to Edge" = "Край к Краю";
+"Center Dashed" = "Пунктир по Центру";
+"Center Solid" = "Линия по Центру";
+"Full Dashed" = "Полный Пунктир";
+"Full Solid" = "Полная Линия";
+"Background Image" = "Фоновое изображение";
+"Video Background" = "Фоновое видео";
+"Video Background" = "Фоновое видео";
+"Export Custom Bloc" = "Экспортировать свой блок";
+"Export Thumb" = "Экспортировать Эскиз";
+"To Dynamic Area" = "В Динамическую Зону";
+"Global" = "Глобально";
+"Slides" = "Слайды";
+"Data Feed" = "Подача данных"; // Check it
+"Local" = "Локально";
+"Edit Original" = "Редактировать Оригинал";
+"Blocs Image Editor" = "Редактор Изображений Blocs";
+"Small - 18px" = "Маленький - 18px";
+"Medium - 30px" = "Средний - 30px";
+"Large - 60px" = "Большой - 60px";
+"XL - 100px" = "XL - 100px";
+"Shadow - Small" = "Тень - Маленькая";
+"Shadow - Large" = "Тень - Большая";
+"Pressed" = "Прессованный"; // Check it
+"Glow" = "Glow"; // Check it
+"Square" = "Квадратный";
+"Rounded" = "Закруглённый";
+"Semi Rounded A" = "Полукруглый А";
+"Semi Rounded B" = "Полукруглый Б";
+"Gutter" = "Gutter"; // Check it
+"Edit Items" = "Редактировать Элементы";
+"Block" = "Блок";
+"Blog" = "Блог";
+"Email List" = "Список Email";
+"Change Video" = "Изменить Видео";
+"Full Width" = "Полная Ширина";
+"Half Width" = "Половинная Ширина";
+"Reset Custom Bric" = "Сбросить Пользовательский Модуль";
+"Unwrap CMS Content" = "Развернуть CMS Контент";
+"Make Cushy CMS Editable" = "Сделать Cushy CMS Редактируемым";
+"Remove Cushy CMS Editable" = "Убрать Возможность Редактировать Cushy CMS";
+"Make Surreal CMS Editable" = "Сделать Surreal CMS Редактируемым";
+"Make Surreal CMS Repeatable" = "Сделать Surreal CMS Повторяющимся";
+"Make" = "Сделать";
+"Show Layer Tree" = "Показать Дерево Слоёв";
+"Show Inspector" = "Показать Инспектора";
+"Lock Canvas Horizontal Scroll" = "Заблокировать Горизонтальную Прокрутку Холста";
+"Unlock Canvas Horizontal Scroll" = "Разблокировать Горизонтальную Прокрутку";
+"Change Image" = "Сменить Изображение";
+"Rounded - Large" = "Закругление - Сильное";
+"Frame - Small" = "Рамка - Маленькая";
+"Frame - Medium" = "Рамка - Средняя";
+"Frame - Large" = "Рамка - Большая";
+"Rounded - Small" = "Закругление - Слабое";
+"Rounded - Medium" = "Закругление - Среднее";
+"Add Icon" = "Добавить Иконку";
+"Fill" = "Заполнение";
+"Round" = "Закруглённый";
+"Corner" = "Corner"; // Check it
+"Flat" = "Плоский";
+"Glossy" = "Глянцевый";
+"Wire" = "Контурный";
+"No Style" = "Без стилей";
+"Header Level" = "Уровени Заголовков";
+"Header 1" = "Заголовок 1";
+"Header 2" = "Заголовок 2";
+"Header 3" = "Заголовок 3";
+"Header 4" = "Заголовок 4";
+"Header 5" = "Заголовок 5";
+"Header 6" = "Заголовок 6";
+"Inherit" = "Наследовать";
+"Wrap in span" = "Завернуть в Span";
+"Wrap in link" = "Сделать Ссылкой";
+"Justify" = "Justify"; // Check it
+"Page Description" = "Описание Страницы";
+"Page Title"  = "Заголовок Страницы";
+
+
+// Window Titles
+"Asset Manager" = "Управление Вложениями";
+"Swatch Manager" = "Менеджер Цветов";
+"Class Manager" = "Менеджер Стилей (Классов)";
+"Class Library Manager" = "Менеджер Библиотеки Классов";
+"Menu Manager" = "Менеджер Меню";
+"Icon Font Manager" = "Менеджер Иконок";
+"Project Notes" = "Заметки Проектов";
+"Code Editor" = "Редактор Кода";
+"Font Manager" = "Менеджер Шрифтов";
+"Documentation" = "Документации";
+"Missing Assets" = "Отсутствуют Вложения";
+"Select Editor" = "Выбрать Редактор";
+"Duplicate Bloc" = "Дублировать Блок";
+"Select Destination" = "Выбрать Пункт Назначения";
+"Preferences" = "Параметры";
+"Contact Customer Support" = "Связаться со Службой Поддержкой Клиентов";
+"Blocs License Details" = "Детали Лицензии Blocs";
+"Missing File" = "Отсутствуют Файлы";
+"Destination" = "Место Назначения";
+"Activate License" = "Активировать Лицензию";
+"Export Settings" = "Параметры экспорта";
+"Extension Manager" = "Менеджер Расширений";
+"Image Editor" = "Редактор Изображений";
+"SEO Helper" = "Помощник SEO";
+"Wordpress Custom Data Manager" = "Менеджер Пользовательских Данных";
+"Generate Pages" = "Сгенерировать страницы";
+"Launch Solis" = "Запустить Solis";
+"Academy" = "Академия";
+"Missing Font Manager" = "Отсутствует Менеджер Шрифтов";
+
+
+
+// Button Labels
+"OK" = "ОК";
+"Yes" = "Да";
+"Save Changes" = "Сохранить изменения";
+"Don't Save" = "Не сохранять";
+"Cancel" = "Отменить";
+"Create" = "Создать";
+"Delete Page" = "Удалить страницу";
+"Duplicate Page" = "Дублировать страницу";
+"Open URL" = "Открыть URL";
+"Clean" = "Очистить";
+"Yes, remove areas" = "Да, удалить зоны";
+"Continue" = "Продолжить";
+"More Info" = "Больше информации";
+"Retry" = "Повторить";
+"Clear" = "Очистить";
+"I Agree" = "Я соглашаюсь";
+"Done" = "Готово";
+"Send" = "Отправить";
+"Add" = "Добавить";
+"Add To" = "Добавить в";
+"Yes, I understand" = "Да, я понимаю";
+"Restart Blocs Now" = "Перезапустить Blocs сейчас";
+"Move Bloc" = "Переместить Bloc";
+"Yes, Delete" = "Да, Удалить";
+"Yes, Generate" = "Да, Сгенерировать";
+"None" = "Нет";
+"Check" = "Проверить";
+"Delete Assets" = "Удалить вложение";
+"View Release Notes" = "Посмотреть заметки релиза";
+"Remove" = "Убрать";
+"Back" = "Вернуть";
+"Forward" = "Вперёд";
+"Begin Setup" = "Начать настройку";
+"Get Started" = "Приступить к работе";
+"Get Info" = "Получить информацию";
+"Open Project Settings" = "Открыть настройки проекта";
+"Show" = "Показать";
+"Hide" = "Скрыть";
+"Browse Store" = "Посетить магазин";
+"Find" = "Найти";
+"Academy Home" = "Дом академии";
+
+
+// Image Well Button Tooltips
+"Remove Image" = "Убрать изображение";
+"Drag image here." = "Перемести картинку сюда.";
+"Click To Select Image." = "Нажми чтобы выбрать картинку.";
+
+
+// Context Menu Items
+"Color" = "Цвета";
+
+// Colors
+"Red" = "Красный";
+"Green" = "Зелёный";
+"Blue" = "Синий";
+"Purple" = "Фиолетовый";
+"Yellow" = "Жёлтый";
+"Orange" = "Оранжевый";
+
+// Product
+"Free" = "Бесплатно";
+"Buy" = "Купить";
+"Install" = "Установить";
+"Download" = "Скачать";
+"View product in Blocs store." = "Посмотреть товар в магазине Blocs.";
+"View product preview." = "Предпросмотр продукта.";
+
+
+
+// Modal Titles
+"Warning" = "Предупреждение";
+"Add Image" = "Добавить изображение";
+
+// Missing Blocs Project
+"This file (%@) can no longer be found. It may have been renamed or deleted." = "Этот файл (%@) не найден. Он может быть переименован или удалён.";
+
+// License Input
+"Activation" = "Активация";
+"License Number" = "Лицензионный Номер";
+"Email Address" = "Email адрес";
+"License Number:" = "Лицензионный номер:";
+"Email Address:" = "Email адрес:";
+"Your license number is the number you received via email when you purchased Blocs." = "Номер вашей лицензии - это номер, который вы получили по электронной почте при покупке Blocs.";
+"The email address you used on checkout when you purchased Blocs." = "Адрес электронной почты, который вы использовали при оформлении заказа при покупке Blocs.";
+"Your copy of Blocs is not activated yet, please enter your license key and purchase email here:" = "Ваша копия Blocs еще не активирована, пожалуйста, введите ваш лицензионный ключ и Email покупки здесь:";
+"Use As Trial" = "Использовать Пробный Период";
+
+
+// Activation
+"Blocs trial period." = "Пробный период Blocs.";
+"Blocs trial finished." = "Получен пробный период Blocs.";
+"Sorry, this feature is disabled in the trial version of Blocs. To access this feature and many more, please support us by purchasing a full Blocs license." = "Sorry, this feature is disabled in the trial version of Blocs. To access this feature and many more, please support us by purchasing a full Blocs license.";
+"Sorry, the Blocs trial does not allow the installation of custom fonts. To add unlimited Google and local web fonts, please support us by purchasing a full Blocs license." = "Sorry, the Blocs trial does not allow the installation of custom fonts. To add unlimited Google and local web fonts, please support us by purchasing a full Blocs license.";
+"Enter License" = "Введите лицензию";
+"Continue Trial" = "Продолжить Ознакомление";
+"Continue with trial" = "Продолжить с триалом";
+"Trial Limit" = "Trial Limit";
+
+"Activation Complete" = "Активация Завершена";
+"Activation Problem." = "Проблемы Активации.";
+"Thank you for supporting the future development of Blocs, your copy has now been activated and is ready to use." = "Thank you for supporting the future development of Blocs, your copy has now been activated and is ready to use.";
+"Thank you for supporting the future development of Blocs, your copy of Blocs Plus has now been activated and is ready to use." = "Thank you for supporting the future development of Blocs, your copy of Blocs Plus has now been activated and is ready to use.";
+"Thank you for supporting the future development of Blocs, your copy of Blocs has been upgraded to Blocs Plus." = "Thank you for supporting the future development of Blocs, your copy of Blocs has been upgraded to Blocs Plus.";
+"Sorry this license is currently being used on the maximum number of computers. Please deactivate one of your licenses before you use it on another computer." = "Sorry this license is currently being used on the maximum number of computers. Please deactivate one of your licenses before you use it on another computer.";
+"Sorry the license number you entered is not valid, please carefully try re-enter your Blocs license number." = "Sorry the license number you entered is not valid, please carefully try re-enter your Blocs license number.";
+"License number error." = "License number error.";
+"Blocs encountered an error when trying to use this license number. Please check that the number you are entering is a Blocs V2 license number as V1 license numbers will not activate this version of Blocs" = "Blocs encountered an error when trying to use this license number. Please check that the number you are entering is a Blocs V2 license number as V1 license numbers will not activate this version of Blocs";
+"There was a problem with your license number, Blocs will now close." = "There was a problem with your license number, Blocs will now close.";
+
+// De-Activate
+"De-Activation Fail" = "Ошибка Деактивации";
+"De-Activation Complete" = "Деактивация завершена";
+"This Mac was successfully deactivated." = "Этот Mac был успешно деактивирован.";
+"Deactivate License." = "Деактивировать Лицензию.";
+"Are you sure you want to deactivate this Mac from using your license?" = "Вы уверены, что хотите деактивировать этот Mac от использования вашей лицензии?";
+"Yes Deactivate" = "Да, Деактивировать";
+
+
+// Server
+"In order to activate your copy of Blocs you will need to have an internet connection." = "In order to activate your copy of Blocs you will need to have an internet connection.";
+"Internet connection issue." = "Проблемы с подключением к Интернету.";
+
+// Start Window
+"Open Project (⌘O)" = "Открыть Проект (⌘O)";
+"New Project (⌘N)" = "Новый Проект (⌘N)";
+"Docs" = " Документация";
+"Community" = " Сообщество";
+"Store" = " Магазин";
+"No Recent Files" = "Нет Предыдущих Файлов";
+
+
+// New
+"New Project" = "Новый Проект";
+"This data is optional and can be set at any time via the project settings." = "Эти данные являются необязательными и могут быть изменены в любое время через настройки проекта.";
+"Select a location for your Blocs project file." = "Выберите местоположение для файла проекта Blocs.";
+"Embedding assets will store all of the files such as images and video into a single Blocs project file." = "Вложения позволяют сохранить все файлы, такие как изображения и видео, в одном файле проекта Blocs.";
+
+
+// Open Project
+"Open Project" = "Открыть Проект";
+"Select the Blocs project you would like to open." = "Выберите проект Blocs, который вы хотите открыть.";
+
+
+// Start New Project Window
+"Site Name:" = "Имя Сайта:";
+"Web Address:" = "Адрес Сайта:";
+"Framework:" = "Фреймворк:";
+"New Page Type:" = "Формат:";
+"CMS:" = "CMS:";
+"Embed Assets in Project File" = "Включать Вложения в файл проекта";
+
+
+// Missing Assets
+"Find Asset" = "Найти Вложение";
+"Select the missing asset." = "Выберете потерянное вложение.";
+"Blocs is unable to find the following project assets, use the controls below to browse your hard drive and reconnect them." = "Blocs is unable to find the following project assets, use the controls below to browse your hard drive and reconnect them.";
+"%lu Missing" = "%lu Missing";
+"Browse for asset." = "Просмотр вложений.";
+
+// Find Brics
+"Blocs is unable to find the following custom Brics." = "Blocs не может найти следующие пользовательские Модули.";
+"Sorry no results, try searching the Blocs Store." = "Простите безрезультатно, попробуйте поискать в Магазине Blocs.";
+"Searching the Blocs Store, please be patient." = "Поиск в Магазине Blocs, пожалуйста, будьте терпеливыми.";
+"Sorry no results found." = "Простите, безрезультатно.";
+
+// Recent Search
+"Clear Menu" = "Очистить Меню";
+"No Recent Searches" = "Нет Недавних Поисков";
+"Recent Searches" = "Недавние Поиски";
+
+// Asset Manager Tooltips
+"Toggle select mode (S) - (Hold ⌘ key to select all)" = "Режим переключения выбора (S) - (Удерживайте кнопку ⌘ для выбора всех)";
+
+// Asset Manager Group Menu Items
+"All" = "Все";
+"Photos" = "Фото";
+"Backgrounds" = "Фоны";
+"Patterns" = "Узоры";
+"Project Assets" = "Вложения Проекта";
+"Add new group..." = "Добавить новую группу..."; // Check it
+"Add New Group" = "Добавить Новую группу"; //too
+"Group Name:" = "Имя Группы:";
+"Create Group" = "Создать Группу"; //too
+"Enter a group name" = "Введите имя группы";
+"Select Groups" = "Выбрать группы";
+"New Group Name" = "Новое Имя Группы";
+"Remove From Group" = "Удалить Из Группы";
+"Rename Asset" = "Переименовать Вложение";
+"Asset Name:" = "Имя Вложения:";
+"String:" = "Строка:"; //too
+"Separator:" = "Разделитель:";
+"Enter new asset name" = "Введите новое имя Вложения";
+"Asset name is already used, please use another." = "Это имя Вложения уже используется, пожалуйста используйте другое.";
+"Add Assets" = "Добавить Вложение";
+"Remove Assets" = "Удалить Вложение";
+"Embed Asset In Project File" = "Добавление Вложений в Файл Проекта";
+"Domain:" = "Домен:";
+"%d Asset Found" = "Вложение %d не найдено";
+"%ld Assets Found" = "Вложение %ld найдено"; //too
+"%ld Found" = "%ld Найдено"; //too
+"Not Found" = "Не найдено";
+"Yes, remove group" = "Да, удалить группу";
+"Are you sure you would like to remove this group? All images will remain in main library but will no longer be grouped under %@." = "Вы уверены что хотите удалить эту группу? Все изображения остануться в Основной Библиотеке, но больше не будут сгруппированы в %@.";
+"Delete Group" = "Удалить Группу";
+"Add Group" = "Добавить Группу";
+"Delete Selected Asset" = "Удалить Выбранное Вложение";
+"Find All Unused Assets" = "Найти Неиспользуемые Вложения";
+"Add Local Asset" = "Добавить Локальное Вложение";
+"Add Hosted Asset" = "Добавить Внешнее Вложение";
+"Bulk Add Hosted Assets" = "Массовое добавление Вложений";
+"A collection of URL's in plain text format." = "Коллекция URL-адресов в формате обычного текста.";
+"The separator for the string, e.g. \\n for new line, \\r for return" = "Разделитель для строки, например, \\n для новой строки, \\r для возврата";
+"The bulk import could not be completed as no valid URL were identified." = "Массовый импорт не удалось завершить, так как не был определен действительный URL-адрес.";
+"An asset group with this name already exists in this project. Would you like to move the selected item(s) into this group?" = "Группа вложений с таким названием уже существует в этом проекте. Вы хотите переместить выбранный элемент(ы) в эту группу?";
+"Merge Group" = "Merge Group";
+"Sorry, a group with this name already exists in this project." = "Извините, группа с таким именем уже существует в этом проекте.";
+"SVG images will not display correctly unless your server is configured to render them." = "SVG-изображения не будут отображаться правильно, если ваш сервер не настроен на их рендеринг.";
+"This group could not be removed." = "Эта группа не может быть удалена.";
+"Sorry, this asset could not be embedded into the project." = "Извините, это Вложение не может быть внедрен в проект.";
+"Not a valid image url, make sure it ends with .jpg, .png, .gif, .webp." = "Это не правильный адрес изображения, убедитесь что он заканчивается на .jpg, .png, .gif, .webp, .mp3, .mp4, .pdf, .zip.";
+"Toggle order asset alphabetically." = "Включить порядок Вложений в Алфавитном порядке.";
+"Would you like to create an asset group with this folder's contents?" = "Вы хотите создать группу Вложений с содержимым этой папки?";
+
+// Embed Assets
+"Are you sure you would like to embed all assets into the project file? This will increase the project file size and cannot be undone." = "Вы уверены, что хотите встроить все вложения в файл проекта? Это увеличит размер файла проекта и это не может быть отменено.";
+"Yes, Embed Assets" = "Да, Встроить вложения";
+"All assets have now been embedded into this Blocs project file. Would you like to enable automatic asset embedding for any assets that are added to this project in the future?" = "Все вложения успешно встроены в этот файл проекта Blocs. Хотите ли вы включить автоматическое встраивание всех вложений в этот проект в будущем??";
+
+
+// Asset Manager Import Alert
+"There is already an asset in your project with the name (%@). Multiple assets with identical file names are not allowed as all assets are placed within the same directory when your site is exported. Would you like to replace the current file with this name?" = "В вашем проекте уже есть вложение с именем (%@). Несколько вложений с одинаковыми именами файлов недопустимы, так как все вложения помещаются в один каталог при экспорте сайта. Вы хотите заменить текущий файл с таким именем?";
+
+"There is already an asset in your project with the name (%@). Multiple assets with identical file names are not allowed as all assets are placed within the same directory when your site is exported. If you would like to replace the image that already exist in this project with that name, please add the asset via the Asset Manager." = "В вашем проекте уже есть вложение с именем (%@). Использование нескольких активов с одинаковыми именами файлов не допускается, поскольку при экспорте сайта все активы размещаются в одном каталоге. Если вы хотите заменить уже существующее в проекте изображение с таким именем, пожалуйста, добавьте вложение через Менеджер Вложений.";
+"Replace Asset" = "Заменить вложение";
+"Duplicate Asset" = "Дублировать вложение";
+
+
+
+// Object Context Menu
+"Custom Classes" = "Пользовательские Классы";
+"No Classes Assigned" = "Классы Не Назначены";
+
+
+// Asset Context Menu
+"Refresh Asset" = "Обновить Вложение";
+"Remove Asset" = "Удалить Вложение";
+"Edit Asset" = "Редактировать Вложение";
+"Show In Finder" = "Найти в Папке";
+"Preview Video" = "Предпросмотр Видео";
+"Preview Audio" = "Предпросмотр Аудио";
+"Preview Doc" = "Предпросмотр Документа";
+"Light Tile Background" = "Светлый фон плиток"; // Check it
+"Dark Tile Background" = "Тёмный фон плиток"; //too
+"Open In Browser" = "Открыть В Браузере";
+
+// Unused Assets
+"%lu Unused Asset" = "%lu неиспользуемое вложение"; //too
+"%lu Unused Assets" = "%lu неиспользуемых фложений";
+
+
+// Remove Assets
+"Unused Assets" = "Неиспользуемое Вложение";
+"Blocs has identified the following assets as not being used. Please check the list carefully before you opt to remove these assets." = "Blocs определил следующие вложения как неиспользуемые. Пожалуйста, внимательно изучите список вложений, прежде чем принять решение об их удалении.";
+
+
+// Screen Shot
+"Screen Shot" = "Снимок Экрана";
+"Select a location for your Screen Shot." = "Выберите место сохранения Снимка Экрана.";
+
+// Create Page Template
+"Create Page Template" = "Создать Шаблон Страницы";
+"Select a location for your Page Template." = "Выберите местоположение для Вашего шаблона страницы.";
+
+// Create Custom Blocs
+"Compile Custom Bloc" = "Скомпилировать Пользовательский Модуль";
+"Select a location for your Custom Bloc." = "Выберите местоположение для Вашего Пользовательского модуля.";
+"Save Bloc Thumb" = "Сохранить Эских Модуля";
+"Select a location for your Custom Bloc thumb." = "Выбеите локальный путь к вашему Эскизу для Модуля.";
+
+
+// Compile Custom Brics
+"Compile Custom Bric" = "Скомпилировать Пользовательский Модуль";
+"Select a location for your compiled custom bric." = "Выберите путь, куда необходимо сбилдить модуль Bric.";
+"Couldn't compile this directory to a custom Bric, it is missing key components." = "Не удалось скомпилировать этот каталог в пользовательский Bric, в нем отсутствуют ключевые компоненты.";
+
+// Install Custom Brics
+"Install %@ Bric" = "Установка Модуля %@";
+"This version of the %@ Bric is older (v%@) than the version currently installed (v%@), would you like to install the older version and replace the currently installed newer version?" = "Эта версия Модуля %@ старее (v%@) нежели версия которая уже установлена (v%@), хотите ли вы установить старую версию заменив новую версию?";
+"This version of the %@ Bric is newer (v%@) than the version currently installed (v%@), would you like to install the newer version and replace the older version?" = "Эта версия Модуля %@ (v%@) новее чем уже установленная версия (v%@), хотите ли установить новую версию взамен старой?";
+"This version of the %@ Bric (v%@) is the same version as the version currently installed (v%@), would you like to install and replace the currently installed version anyway?" = "Эта версия Модуля %@ (v%@) та же самая что установлена в данный момент (v%@), хотите ли вы переустановить ещё раз эту версию Модуля?";
+
+// Update Custom Brics
+"The following custom Brics have been updated since this project was last opened." = "С момента последнего открытия этого проекта, были обновлены пользовательские модули.";
+
+
+// Export Settings
+"Minify HTML" = "Сжать HTML";
+"Minify Main CSS" = "Сжать CSS";
+"Minify Bootstrap" = "Сжать Bootstrap";
+"Minify Jquery" = "Сжать jQuery";
+"Minify Blocs.js" = "Сжать Blocs.js";
+"Minify Animate.css" = "Сжать Animate.css";
+"Enable Lazy Loading" = "Включить Lazy Load";
+"Clean Page URL's" = "Очистить ссылки на страницы";
+"Generate Sitemap" = "Создать Sitemap";
+"Cache Bust CSS and JS" = "Буст кэша, CSS и JS";
+"Combine All JS" = "Комбин. JS";
+"Combine All CSS" = "Комбин. CSS";
+"Minify" = "Сжать";
+"Include jQuery" = "Включить Библиотеку jQuery";
+"Select default export location" = "Выбрать путь экспорта по умолчанию";
+
+// Export Duplicate Location
+"You have chosen to overwrite an older exported version of this site. Would you like to replace the entire directory and contents or just the relevant updated files within the selected directory?" = "Вы решили перезаписать более старую экспортированную версию этого сайта. Вы хотите заменить весь каталог и содержимое или только соответствующие обновленные файлы в выбранном каталоге?";
+"Yes, replace all" = "Да, заменить всё";
+"No, replace updated files only" = "Нет, заменить только обновляемые файлы";
+
+// Export Same Location as Project File
+"Blocs can not carry out this command as it would cause the current project file to be deleted. Please select an alternative export location." = "Blocs не может выполнить эту команду, так как это приведет к удалению текущего файла проекта. Пожалуйста, выберите альтернативное место экспорта.";
+
+// Loading sheet Message
+"Blocs is working, this may take a few moments." = "Blocs сейчас занят, это может занять несколько минут.";
+"Project thumbnails are being updated, please wait." = "Снимки проекта обновляются, пожалуйста подождите.";
+"Begin Export" = "Начинается экспорт";
+"Generating Files" = "Генерирование файлов";
+"Finishing Up Export" = "Завершение экспорта";
+
+
+// Loading Project
+"This project was created in a newer version of Blocs and can not be opened in this version of Blocs." = "Этот проект был создан в более новой версии Blocs и не может быть корректно открыт в этой версии Blocs.";
+
+// Protected Export Location
+"Please select another export location, exporting to the location you selected is not allowed." = "Пожалуйста, выберите другое место экспорта, экспорт в выбранное вами место не разрешен.";
+
+
+// Save
+"Export Project" = "Экспортировать проект";
+"Would you like to save this project before closing it?" = "Сохранить проект перед закрытием?";
+"Would you like to save changes to %@ before closing it?" = "Хотите ли вы сохранить изменения в %@ перед его закрытием?";
+"Are you sure you would like to close the current project and open %@?" = "Вы уверены, что хотите закрыть текущий проект и открыть %@?";
+"Select a location to save your exported project." = "Выберите путь для сохранения проекта.";
+"Sorry there was an error and Blocs was unable to store your HTML content." = "Простите, произошла ошибка, и Blocs не смог сохранить Ваш HTML-контент.";
+"Sorry there was an error and Blocs was unable to store the file data for the following reason: %@." = "Извините, произошла ошибка, и Blocs не смог сохранить данные файла по следующей причине: %@.";
+"Sorry, Blocs was unable to save the file data as there was an error with the location being saved to, please try using the Save As command and saving to an alternative location. Would you like to generate a status report? If you file a bug report and include this report, it could help us fix the issue faster." = "Извините, Blocs не смог сохранить данные файла, так как произошла ошибка с местом сохранения, пожалуйста, попробуйте использовать команду Сохранить как и сохранить в другое место. Вы хотите создать отчет о состоянии? Если вы отправите сообщение об ошибке и включите в него этот отчет, это поможет нам быстрее устранить проблему.";
+"Yes, generate report" = "Да, сгенерировать отчёт";
+
+// Package Export
+"Project package successfully generated." = "Пакет проекта успешо сформирован.";
+"There are unsaved changes in this project, please save and then run the packager." = "В этом проекте есть несохранённые изменения, пожалуйста, сохраните их, а затем запустите упаковщик.";
+
+// ID
+"This ID is already in use with another item on this page, please use another." = "Этот идентификатор уже используется для другого элемента на этой странице, пожалуйста, используйте другой.";
+"ID's and Classes cannot start with a number, they must start with a letter." = "ID и классы не могут начинаться с цифры, они должны начинаться с буквы.";
+
+
+// Classes
+"A class with this name is already being used in this project." = "Класс с таким именем уже используется в этом проекте.";
+"Are you sure you would like to delete the %@ class? All elements in your project that currently use this class will be affected. Please note this change cannot be undone." = "Вы уверены, что хотите удалить класс %@? Все элементы в вашем проекте, которые в настоящее время используют этот класс, будут затронуты. Обратите внимание, что это изменение нельзя отменить.";
+"The class (%@) is an important class, we recommend you DO NOT delete this class as it could break the overall styling of your site. If you choose to delete this class, please note the change cannot be undone" = "Класс (%@) - это важный класс, мы рекомендуем НЕ удалять его, так как это может нарушить общий стиль вашего сайта. Если вы решите удалить этот класс, обратите внимание, что изменение нельзя отменить";
+"Your class name contains spaces, if it is going to be used directly on an element it will not work. Would you like to fix this class name?" = "Ваше имя класса содержит пробелы, если оно будет использоваться непосредственно на элементе, оно не будет работать. Вы хотите исправить это имя класса?";
+"Yes, replace spaces with dashes" = "Да, замените пробелы на тире";
+"No, leave spaces intact" = "Нет, оставить пробелы нетронутыми";
+"Delete Class" = "Удалить Класс";
+"Delete Classes" = "Удалить Классы";
+"Duplicate Class" = "Дублировать Класс";
+"Add to Class Library" = "Добавить в Библиотеку Классов";
+"Important Class Warning" = "Важное Предупреждение о Классе";
+
+"Classes cannot start with a number, they must start with a letter." = "Классы не могут начинаться с цифры, они должны начинаться с буквы.";
+"Are you sure you would like to clear this %@ setting?" = "Вы уверены, что хотите убрать эту настройку: %@?";
+
+"Class Name" = "Имя Класса";
+"Subclass Lib" = "Библиотека"; // Check it. Adaptive it
+"Subclasses allow you to style core Blocs pre-styled items." = "Подклассы позволяют стилизовать основные элементы, предварительно стилизованные под Blocs.";
+"View Subclass Guide" = "View Subclass Guide";
+
+"The (%@) custom class has been added to your local class library." = "Пользовательский класс (%@) был добавлен в вашу локальную библиотеку классов.";
+"Upgrade to Blocs Plus to store more classes in the Class Library." = "Обновитесь до Blocs Plus для хранения большего количества классов в библиотеке классов.";
+
+// Remove Classes
+"Unused Classes" = "Неиспользуемые Классы";
+"Blocs has identified the following classes as not being used. Please check the list carefully before you opt to remove these classes." = "Blocs определил существующие классы как неиспользуемые. Пожалуйста, внимательно проверьте список, прежде чем вы решите удалить эти классы.";
+
+// Unused Classes
+"%lu Unused Class" = "%lu неиспользуемый класс"; // Check it
+"%lu Unused Classes" = "%lu неиспольуемых классов"; // Check it
+
+
+// Free Hand Classes
+"The (%@) class is used on another element as a freehand class. Would you like to set this class as the freehand class for the current selected element as well?" = "Класс (%@) используется на другом элементе в качестве класса свободной руки. Вы хотите установить этот класс в качестве класса freehand для текущего выделенного элемента?";
+"Yes, set as Freehand class" = "Да, установить как класс Freehand";
+
+// Remove All Classes From Project
+"Are you sure you would like to remove all custom classes from this project? This cannot be undone." = "Вы уверены, что хотите удалить все пользовательские классы из этого проекта? Это нельзя отменить.";
+"Yes, remove all custom classes" = "Да, удалить все пользовательские классы";
+
+// Class Library
+"Are you sure you want to delete the selected classes from your class library? Please note, deleting them will NOT effect projects that have used the classes previously." = "Вы уверены, что хотите удалить выбранные классы из библиотеки классов? Обратите внимание, что их удаление НЕ повлияет на проекты, в которых эти классы использовались ранее.";
+"Yes, delete classes" = "Да, удалить классы";
+
+// Reset Gradient
+"Are you sure you would like to reset the values of this gradient, it can not be undone." = "Вы уверены, что хотите сбросить значения этого градиента, его нельзя отменить.";
+"Reset Gradient" = "Сбросить Градиент";
+
+// Filters
+"Remove Filter Rule" = "Убрать правило фильтрации";
+"No CSS Filters" = "Нет CSS фильтров";
+
+// CSS Shadows
+"No Shadows" = "Нет теней";
+
+
+// Main ToolBar
+"Project Settings (⌘,)" = "Настройки Проекта (⌘,)";
+"Preview Mode (⌃V)" = "Режим Предпросмотра (⌃V)";
+"Wordpress Data Options" = "Wordpress Data Options";
+"Zoom Canvas (⌘+ | ⌘-)" = "Зум Холста (⌘+ | ⌘-)";
+"Select Page" = "Выбрать Страницу";
+"Page Settings (⌘⌥P)" = "Настройки Страницы (⌘⌥P)";
+"Buy License" = "Купить Лицензию";
+
+
+// Sidebar Tab Button Tooltips
+"Layer Navigator (⌃L)" = "Навигатор слоёв (⌃L)";
+"Page Navigator (⌃P)" = "Навигатор страниц (⌃P)";
+"Inspector (⌃N)" = "Инспектор (⌃N)";
+"Bric Library (⌃D)" = "Библиотека Модулей (⌃D)";
+
+
+// Menu Manager
+"Are you sure you want to delete this menu, all data related to it will lost and cant be undone." = "Вы уверены, что хотите удалить это меню, все данные, связанные с ним, будут потеряны и не могут быть отменены.";
+"The title of the menu item." = "Название пункта меню.";
+"The interaction type for the menu item." = "Тип взаимодействия меню.";
+"The url this menu item will link to." = "Ссылка, на которую будет ссылатся данное меню."; // Check it
+"The menu this item will open." = "Меню, которое открывает этот раздел.";
+"The page this menu item will link to." = "Страница, на которую будет ссылаться данный пункт меню.";
+"Delete Menu" = "Удалить меню";
+"Yes, move items" = "Да, переместить пункт";
+"Target Menu:" = "Целевое меню:";
+"Menu Title:" = "Название меню:";
+"Menu Items:" = "Пункты меню:";
+"Add New Menu..." = "Добавить Новое Меню...";
+"Add new menu item" = "Добавить новый пункт меню";
+"Remove menu item" = "Удалить пункт меню";
+"View Settings" = "Посмотреть настройки";
+"Menu" = "Меню";
+"Menu:" = "Меню:";
+"Title" = "Заголовок";
+"No" = "Нет";
+
+// Menu Manager Interaction Menu Items
+"Navigate To Page" = "Перейти на страницу в Blocs";
+"Navigate To URL" = "Перейти по ссылке";
+"Open Menu" = "Открыть Меню";
+"Dropdown Divider" = "Выпадающее меню";
+
+
+// Swatch Manager
+"No Colour Set" = "Не выбран цвет";
+"Unnamed Swatch" = "Безымянный цвет";
+"New Swatch" = "Новый цвет";
+"No Selection" = "Не выбрано";
+"Transparent" = "Прозрачность";
+"Add new swatch." = "Добавить новый цвет.";
+"Remove Swatch Options." = "Убрать опции Цвета."; // Check it
+"Delete selected swatch" = "Удалить выбранный цвет";
+"Delete all unused swatches" = "Удалить все неиспользуемые цвета";
+"Edit Swatch" = "Изменить цвет";
+"Duplicate Swatch" = "Дублировать цвет";
+"Copy Hex Value" = "Копировать код цвета Hex";
+"Delete Swatch" = "Удалить цвет";
+"Hex Copied To Clipboard" = "Код Hex цвета скопирован в Буфер Обмена";
+
+// Remove All Swatches
+"Are you sure you would like to remove all Global Swatches from this project? This cannot be undone." = "Вы уверены, что хотите удалить все глобальные цвета из этого проекта? Это невозможно отменить.";
+"Yes, remove all Global Swatches" = "Да, удалить глобальные цвета";
+
+// Remove Unused Swatches
+"Unused Swatches Found" = "Обнаружены неиспользуемые цвета";
+"All Global Swatches are currently in use." = "Все цвета в настоящее время уже используюся.";
+
+
+// Class Manager
+"Add a new class." = "Добавить новый класс.";
+"Remove class options." = "Убрать опции класса.";
+"Edit order of classes." = "Редактировать порядок классов.";
+"Edit value of classes." = "Редактировать значение класса.";
+"Open Class Library Manager." = "Открыть Менеджер Редактора Классов.";
+"Delete selected class" = "Удалить выбранный класс";
+"Delete all unused classes" = "Удалить все неиспользуемые классы";
+"Create Dark Theme Version" = "Сделать тёмную версию темы";
+"Create Pseudo ::before Version" = "Создать псевдо ::before Версию";
+"Create Pseudo ::after Version" = "Создать псевдо ::after Версию";
+"A dark theme version of this class could not be added, it may already exist." = "Версия этого класса с темной темой не может быть добавлена, возможно, она уже существует.";
+"A pseudo version of this class could not be added, it may already exist." = "Псевдоверсия этого класса не может быть добавлена, возможно, она уже существует.";
+
+
+// Class Editor Tab Titles
+"Positioning" = "Позиционирование";
+"Margin & Padding" = "Margin & Padding";
+"Text Shadow" = "Тени Текста";
+"Box Shadow" = "Тени Бокса";
+"Filter" = "Фильтр";
+"SVG Fill" = "SVG Заливка";
+"SVG Stroke" = "SVG Stroke";
+"Flex Container" = "Гибкий Контейнер (Flex)";
+"Flex Child" = "Flex Child";
+
+// Class Editor Labels
+"Min:" = "Min:";
+"Max:" = "Max:";
+"Edge:" = "Край:";
+"Padding:" = "Padding:";
+"Margin:" = "Margin:";
+"Radius:" = "Радиус:";
+"Opacity:" = "Видимость:";
+"Content:" = "Контент:";
+"Cursor:" = "Курсор:";
+"Caret Color:" = "Caret Color:";
+"Weight:" = "Weight:";
+"Align:" = "Выравн.:";
+"Transform:" = "Трансформация:";
+"Decoration:" = "Декорации:";
+"Letter Spacing:" = "Буквенный интервал:";
+"Word Spacing:" = "Промежуток слов:";
+"Indent:" = "Indent:";
+"Overflow:" = "Overflow:";
+"White Space:" = "White Space:";
+"Font Display:" = "Font Display:";
+"Distance:" = "Distance:";
+"Blur:" = "Размытие:";
+"Angle:" = "Угол:";
+"Fill Rule:" = "Fill Rule:";
+"Line Cap:" = "Line Cap:";
+"Justify:" = "Justify:";
+"Wrap:" = "Wrap:";
+"Position:" = "Position:";
+"Float:" = "Float:";
+"Clear:" = "Clear:";
+"Display:" = "Display:";
+"Image:" = "Image:";
+"Repeat:" = "Repeat:";
+"Clip:" = "Clip:";
+"Blend Mode:" = "Blend Mode:";
+"Origin:" = "Origin:";
+"Attachment:" = "Attachment:";
+"Output:" = "Output:";
+
+
+// Class Editor - Tooltips
+"Box" = "Box";
+"Shadow" = "Тени";
+"Filters" = "Фильтры";
+"Target Class State" = "Target Class State";
+"Assigned Classes" = "Назначенные классы";
+"Add to Class Library." = "Добавить в Библиотеку Классов.";
+"Add new CSS filter." = "Добавить новый CSS фильтр.";
+"Remove selected CSS filter." = "Удалить выбранный CSS фильтр.";
+"Add new text shadow." = "Добавить новую тень текста.";
+"Remove text shadow." = "Убрать тень тексту.";
+"Add new box shadow." = "Добавить тень контенту.";
+"Remove box shadow." = "Убрать тень у контента.";
+"Edit shadow values" = "Редактировать значение теней";
+"No Description" = "Нет описания";
+"Edit value with slider." = "Редактируйте значение с помощью ползунка.";
+"The elements background style." = "Фоновый стиль элементов.";
+"The width property sets the width of an element." = "Свойство width задает ширину элемента.";
+"The min-width property defines the minimum width of an element." = "Свойство min-width определяет минимальную ширину элемента.";
+"The max-width property defines the maximum width of an element." = "Свойство max-width определяет максимальную ширину элемента.";
+"The height property sets the height of an element." = "Свойство height устанавливает высоту элемента.";
+"The min-height property defines the minimum height of an element." = "Свойство min-height определяет минимальную высоту элемента.";
+"The max-height property defines the maximum height of an element." = "Свойство max-height определяет максимальную высоту элемента.";
+"An element's padding is the space between its content and its border." = "Подкладка элемента - это пространство между содержимым элемента и его границей.";
+"The margin property sets the margins for an element." = "Свойство margin устанавливает поля для элемента.";
+"The border-style property sets the style of an element's borders." = "Свойство border-style задает стиль границ элемента.";
+"The border-width property sets the width of an element's borders." = "Свойство border-width задает ширину границ элемента.";
+"The border-radius property defines the radius of the element's corners." = "Свойство border-radius определяет радиус углов элемента.";
+"The border-color property sets the color of an element's borders." = "Свойство border-color устанавливает цвет границ элемента.";
+"The caret-color property specifies the color of the cursor (caret) in inputs, textareas, or any element that is editable." = "Свойство caret-color задает цвет курсора (caret) во вводах, текстовых областях или любом редактируемом элементе.";
+"The opacity property sets the opacity level for an element." = "Свойство opacity устанавливает уровень непрозрачности для элемента.";
+"The content property is used with the ::before and ::after pseudo-elements, to insert generated content." = "Свойство content используется с псевдоэлементами ::before и ::after для вставки сгенерированного содержимого.";
+"The cursor property specifies the mouse cursor to be displayed when pointing over an element." = "Свойство cursor определяет курсор мыши, который будет отображаться при наведении на элемент.";
+"The font-family property specifies the font for an element." = "Свойство font-family определяет шрифт для элемента.";
+"The font-size property sets the size of a font." = "Свойство font-size устанавливает размер шрифта.";
+"The font-weight property sets how thick or thin characters in text should be displayed." = "Свойство font-weight устанавливает, насколько толстыми или тонкими должны быть символы в тексте.";
+"The color property specifies the color of text." = "Свойство color определяет цвет текста.";
+"The font-style property specifies the font style for a text." = "Свойство font-style определяет стиль шрифта для текста.";
+"The text-align property specifies the horizontal alignment of text in an element." = "Свойство text-align определяет горизонтальное выравнивание текста в элементе.";
+"The text-transform property controls the capitalization of text." = "Свойство text-transform управляет капитализацией текста.";
+"The text-decoration property specifies the decoration added to text." = "Свойство text-decoration определяет украшение, добавляемое к тексту.";
+"The line-height property specifies the height of a line." = "Свойство line-height определяет высоту линии.";
+"The letter-spacing property increases or decreases the space between characters in a text." = "Свойство letter-spacing увеличивает или уменьшает расстояние между символами в тексте.";
+"The word-spacing property increases or decreases the white space between words." = "Свойство word-spacing увеличивает или уменьшает пробел между словами.";
+"The text-indent property specifies the indentation of the first line in a text-block." = "Свойство text-indent определяет отступ первой строки в текстовом блоке.";
+"The white-space property specifies how white-space inside an element is handled." = "Свойство white-space определяет, как обрабатывается пробел внутри элемента.";
+"The direction property specifies the text direction/writing direction within a block-level element." = "Свойство direction определяет направление текста/направление записи в элементе уровня блока.";
+"The orientation (writing-mode) property specifies whether lines of text are laid out horizontally or vertically." = "Свойство ориентации (режим записи) определяет, горизонтально или вертикально располагаются строки текста.";
+"The font-display descriptor determines how a font face is displayed based on whether and when it is downloaded and ready to use." = "Дескриптор font-display определяет, как отображается лицо шрифта в зависимости от того, загружен ли он и когда готов к использованию..";
+"The fill property defines the color of an inline svg path element." = "Свойство fill определяет цвет элемента inline svg path.";
+"The fill-rule property defines whether the path points of an inline svg combine or exclude ( nonzero | evenodd )." = "Свойство fill-rule определяет, объединять или исключать точки пути во встроенном svg (ненулевое значение | четное значение)..";
+"The stroke property defines the color of a line, text or outline of an inline svg element." = "Свойство stroke определяет цвет линии, текста или контура встроенного svg-элемента..";
+"The stroke-width property defines the thickness of a line, text or outline of an inline svg element." = "Свойство stroke-width определяет толщину линии, текста или контура in line - элемента svg.";
+"The stroke-linecap property defines different types of endings to an open path." = "Свойство stroke-linecap определяет различные типы окончаний открытого контура.";
+"The flex-direction property specifies the direction of the flexible items." = "Свойство flex-direction задает направление гибких элементов.";
+"The align-items property specifies the default alignment for items inside the flexible container." = "Свойство align-items определяет выравнивание по умолчанию для элементов внутри гибкого контейнера.";
+"The justify-content property aligns the flexible container's items when the items do not use all available space on the main-axis (horizontally)." = "Свойство justify-content выравнивает элементы гибкого контейнера, когда элементы не используют все доступное пространство на главной оси (по горизонтали).";
+"The flex-wrap property specifies whether the flexible items should wrap or not." = "Свойство flex-wrap определяет, должны ли гибкие элементы обворачиваться или нет.";
+"The align-content property modifies the behavior of the flex-wrap property. It is similar to align-items, but instead of aligning flex items, it aligns flex lines." = "Свойство align-content изменяет поведение свойства flex-wrap. Оно аналогично align-items, но вместо выравнивания гибких элементов выравнивает гибкие линии.";
+"The position property specifies the type of positioning method used for an element." = "Свойство position определяет тип метода позиционирования, используемого для элемента.";
+"The z-index property specifies the stack order of an element." = "Свойство z-index определяет порядок расположения элемента на странице.";
+"The float property specifies how an element should float." = "Свойство float определяет, как должен плавать элемент.";
+"The clear property specifies on which sides of an element floating elements are not allowed to float." = "Свойство clear указывает, по каким сторонам элемента не разрешается плавать плавающим элементам.";
+"The display property specifies the display behavior (the type of rendering box) of an element." = "Свойство display определяет поведение отображения (тип окна рендеринга) элемента.";
+"The overflow property specifies what should happen if content overflows an element's box." = "Свойство overflow определяет, что должно произойти, если содержимое переполняет поле элемента.";
+"The background-image property sets one or more background images for an element." = "Свойство background-image задает одно или несколько фоновых изображений для элемента.";
+"The background-size property specifies the size of the background images." = "Свойство background-size определяет размер фоновых изображений.";
+"The width property specifies the size of the background images width." = "Свойство width задает размер ширины фоновых изображений.";
+"The background-color property sets the background color of an element." = "Свойство background-color устанавливает цвет фона элемента.";
+"The height property specifies the size of the background images height." = "Свойство height задает размер высоты фоновых изображений.";
+"The background-position property sets the starting position of a background image." = "Свойство background-position задает начальную позицию фонового изображения.";
+"The background-repeat property sets if/how a background image will be repeated." = "Свойство background-repeat устанавливает, будет ли/как будет повторяться фоновое изображение.";
+"The background-clip property defines how far the background (color or image) should extend within an element." = "Свойство background-clip определяет, насколько фон (цвет или изображение) должен распространяться в пределах элемента.";
+"The background-blend-mode property defines the blending mode of each background layer (color and/or image)." = "Свойство background-blend-mode определяет режим смешивания каждого фонового слоя (цвет и/или изображение).";
+"The background-origin property specifies the origin position (the background positioning area) of a background image." = "Свойство background-origin определяет исходное положение (область позиционирования фона) фонового изображения.";
+"The background-attachment property sets whether a background image scrolls with the rest of the page, or is fixed." = "Свойство background-attachment устанавливает, будет ли фоновое изображение прокручиваться вместе с остальной частью страницы или будет фиксированным..";
+"The gradient type defines the way the colours of a gradient are rendered." = "Тип градиента определяет способ отображения цветов градиента.";
+"The current point color value of the gradient." = "Текущее значение цвета точки градиента.";
+"The gradients angle." = "Угол наклона градиентов.";
+"The top property affects the vertical position of a positioned element. This property has no effect on non-positioned elements." = "Свойство top влияет на вертикальное положение позиционированного элемента. Это свойство не влияет на непозиционированные элементы.";
+"The bottom property affects the vertical position of a positioned element. This property has no effect on non-positioned elements." = "Свойство bottom влияет на вертикальное положение позиционированного элемента. Это свойство не влияет на непозиционированные элементы.";
+"The left property affects the horizontal position of a positioned element. This property has no effect on non-positioned elements." = "Свойство left влияет на горизонтальное положение позиционированного элемента. Это свойство не влияет на непозиционированные элементы.";
+"The right property affects the horizontal position of a positioned element. This property has no effect on non-positioned elements." = "Свойство right влияет на горизонтальное положение позиционированного элемента. Это свойство не влияет на непозиционированные элементы.";
+"Left to Right - Horizontal" = "Слева направо - горизонтально";
+"Right to Left - Horizontal Reverse" = "Справа налево - горизонтальный реверс";
+"Top to Bottom - Vertical" = "Сверху вниз - вертикально";
+"Bottom to Top - Vertical Reverse" = "Снизу вверх - вертикальный реверс";
+"Start" = "Старт";
+"End" = "Конец";
+"Stretch" = "Растянуть";
+"Baseline" = "Базовый показатель";
+"Space Between" = "Пространство между";
+"Space Around" = "Пространство вокруг";
+"No Wrap" = "Без обертывания";
+"Wrap" = "Обертывание";
+"Wrap Reverse" = "Реверс обертки";
+
+// Segmented Control Segment Titles
+"Inside" = "Внутри";
+"Outside" = "Снаружи";
+
+// Wordpress Data Manager
+"Custom Post Types" = "Пользовательские типы постов";
+"Custom Fields Types" = "Типы пользовательских полей";
+"A custom post with this name already exists." = "Пользовательский пост с таким именем уже существует.";
+"A custom field with this name already exists." = "Пользовательское поле с таким именем уже существует.";
+"The singular custom post type name." = "The singular custom post type name.";
+"The multiple custom post type name." = "The multiple custom post type name.";
+"The custom post type description." = "The custom post type description.";
+"The icon used for the custom post type in the Wordpress admin." = "The icon used for the custom post type in the Wordpress admin.";
+"The position that the custom post menu will display in the Wordpress admin." = "The position that the custom post menu will display in the Wordpress admin.";
+"Exclude the post type from search results." = "Exclude the post type from search results.";
+"Post type is public." = "Post type is public.";
+"Show in Wordpress admin menu." = "Show in Wordpress admin menu.";
+"Access Gutenberg editor for post type." = "Access Gutenberg editor for post type.";
+"Post has archive." = "Post has archive.";
+"A hierarchical post type is a post type with a parent and one or more children." = "A hierarchical post type is a post type with a parent and one or more children.";
+"Name Multi:" = "Name Multi:";
+"Menu Icon:" = "Menu Icon:";
+"Menu Position:" = "Menu Position:";
+"Wordpress Icons" = "Wordpress Icons";
+
+// Wordpress Data Manager Menu Position
+"Below DashBoard" = "Below DashBoard";
+"Below Posts" = "Below Posts";
+"Below Media" = "Below Media";
+"Below Links" = "Below Links";
+"Below Pages" = "Below Pages";
+"Below Comments" = "Below Comments";
+"Below First Seperator" = "Below First Seperator";
+"Below Plugins" = "Below Plugins";
+"Below Users" = "Below Users";
+"Below Tools" = "Below Tools";
+"Below Settings" = "Below Settings";
+"Below Second Seperator" = "Below Second Seperator";
+
+// Wordpress Data Manager Menu Icon
+"Shopping Cart" = "Корзина";
+"Camera" = "Камера";
+"Media" = "Медиа";
+"Book" = "Книги";
+"Tickets" = "Tickets";
+"Users" = "Пользователи";
+"Calendar" = "Календари";
+"Locations" = "Locations";
+"Paint Brush" = "Paint Brush";
+"Key" = "Ключи";
+"Chart" = "График";
+"Heart" = "Сердце";
+"Paperclip" = "Скрепка";
+"View All Available Icons" = "Просмотреть все доступные иконки";
+
+// Wordpress Data Manager Check Boxes
+"Exclude from search" = "Исключить из поиска";
+"Public" = "Public";
+"Show in admin menu" = "Показывать в админ меню";
+"Enable Gutenberg editor" = "Enable Gutenberg editor";
+"Has archive" = "Has archive";
+"Hierarchical" = "Hierarchical";
+
+// Design Canvas Tooltips
+"Click to add first Bloc" = "Нажмите, чтобы добавить первый Блок";
+"Content above this line will show on every page." = "Содержимое над этой полосой будет отображаться на всех страницах.";
+"Content below this line will show on every page." = "Содержимое под этой полосой будет отображаться на всех страницах.";
+"This Bloc will show on every page of your site as it is located in the top Global Area. Any changes made to it will affect all pages with the top Global Area enabled." = "Этот блок будет отображаться на каждой странице вашего сайта, поскольку он расположен в верхней глобальной области. Любые изменения, внесенные в него, повлияют на все страницы с включенной верхней глобальной областью.";
+"This Bloc will show on every page of your site as it is located in the bottom Global Area. Any changes made to it will affect all pages with the bottom Global Area enabled." = "Этот блок будет отображаться на каждой странице вашего сайта, поскольку он расположен в нижней части глобальной области. Любые изменения, внесенные в него, повлияют на все страницы с включенной нижней глобальной областью.";
+"This item is excluded from export." = "Это вложение исключено из экспорта.";
+
+// Design Canvas Option Checkbox Titles
+"Canvas Settings" = "Настройки холста";
+"Visual Impairment" = "Нарушение зрения";
+"Display Add Bloc Buttons" = "Отображение кнопок добавления блока";
+"Display Add Bric Buttons" = "Отображение кнопок добавления модуля";
+"Display Line Break Tags" = "Отображение тегов разрыва строки";
+
+// Design Canvas Option Checkbox Tooltips
+"Wireframe mode disables all additional styling from that is not related to layout." = "Режим каркаса отключает все дополнительные стили, не относящиеся к макету.";
+"Outline mode will display a border around all page elements." = "В режиме Outline вокруг всех элементов страницы будет отображаться рамка.";
+"Toggle the add Bloc button (+) visibility." = "Toggle the add Bloc button (+) visibility.";
+"Toggle the add Bric button (+) visibility." = "Toggle the add Bric button (+) visibility.";
+"Toggle the visual rendering of line breaks  - <br> tags." = "Включить визуальное отображения переноса строк тегом <br>.";
+"View Documentation" = "Смотреть документацию";
+"Dark Site Mode inverts the colours of the insert UI so it is visible on dark backgrounds." = "Тёмный режим сайта инвертирует цвета пользовательского интерфейса, чтобы он был виден на темном фоне.";
+
+
+
+// Pages
+"A page with the name (%@) already exists in this project. Please specify a unique name." = "Страница с именем (%@) уже существует в этом проекте. Пожалуйста, укажите уникальное имя.";
+"Index may not be assigned as a page name via the page settings. If you would like to set a different home page for your site, that can be done via project settings." = "Индекс не может быть назначен в качестве имени страницы через настройки страницы. Если вы хотите установить другую домашнюю страницу для вашего сайта, это можно сделать через настройки проекта.";
+"Are you sure you want to delete this page and its contents?" = "Вы уверены, что хотите удалить эту страницу и её содержимое?";
+"It is not possible to delete the project home page." = "Невозможно удалить главную страницу проекта.";
+
+// Page Attachments
+"%@ was added as a page attachment." = "%@ был добавлен в качестве вложения страницы.";
+
+// Remove Pages In Bulk
+"Please check the list carefully before you opt to remove these pages as changes cannot be undone. Please note, the current project home page is not included as it cannot be deleted." = "Пожалуйста, внимательно изучите список, прежде чем удалить эти страницы, так как изменения нельзя отменить. Обратите внимание, что домашняя страница текущего проекта не включена, так как ее нельзя удалить.";
+"Project Pages" = "Страницы проекта";
+
+// Project Attachments
+"Are you sure that you would like to add (%@) as a project attachment?" = "Вы уверены, что хотите добавить (%@) в качестве приложения к проекту?";
+"Yes, add attachment" = "Да, добавить вложение";
+
+// File Compatibility
+"Important! This file was last saved in Blocs version %@, if you make changes and save them in this version of Blocs, the file will no longer be backwards compatible with versions of Blocs below %@" = "Важно! Этот файл был последний раз сохранен в версии Blocs %@, если вы внесете изменения и сохраните их в этой версии Blocs, файл больше не будет обратно совместим с версиями Blocs ниже %@.";
+
+// Interaction Type Menu Items
+"Navigate to Page" = "Перейти на страницу";
+"Navigate to URL " = "Перейти по ссылке ";
+"Submit Form" = "Принять форму";
+"Scroll to Target" = "Переместится к элементу";
+"Open Dropdown" = "Открыть Выпадающее меню";
+"Toggle Visibility" = "Показать скрытое";
+"Download File" = "Скачать файл";
+"Toggle Modal" = "Вызвать Модальное окно";
+"Wordpress Link" = "Ссылка WordPress";
+"Toggle Class" = "Вызвать Class";
+"Telephone Link" = "Номер телефона";
+"Email Link" = "Email";
+"Ecommerce" = "Электронная коммерция";
+
+// Interaction Alerts
+"This interaction points to an outside url, would you like to open this url in your default browser?" = "Это взаимодействие указывает на внешний url, хотите ли вы открыть этот url в вашем браузере по умолчанию??";
+"This interaction will cause the file (%@) to download." = "Это действие приведет к загрузке файла (%@).";
+"Would you like to apply this light box frame style to all items in this gallery group?" = "Действительно ли вы хотите применить этот стиль к light box которая находится в этой группе галлереи?";
+"Yes, apply to all" = "Да, применить ко всем";
+
+// Scroll To Interaction
+"Top of page" = "В начало страницы";
+"Bottom of page" = "В конец страницы";
+"Next Bloc" = "К следующему Блоку";
+
+// Toggle Visibility Interaction
+"Seperate with comma" = "Разделите запятой";
+
+// Download Interaction
+"No Download" = "Нет загрузок";
+
+// Lightbox Dropdown Menu Items
+"Current image" = "Текущая картинка";
+"Alternative image" = "Альтернативная картинка";
+"Default" = "По умолчанию";
+"Frameless" = "Безрамочная";
+"Snapshot" = "Снимок";
+
+// Wordpress Link Interaction Menu Items
+"Permalink URL" = "Permalink URL";
+"Category URL" = "Category URL";
+"Tag URL" = "Tag URL";
+"Author Archive URL" = "Author Archive URL";
+"Edit Post URL" = "Edit Post URL";
+"Login URL" = "Login URL";
+
+// Ecommerce Interaction
+"Checkout" = "Checkout";
+"Quantity" = "Quantity";
+"Product URL" = "Ссылка на продукт";
+"Product ID" = "Идентификатор продукта";
+"Price ID" = "Price ID";
+"Price" = "Price";
+"Item Page" = "Item Page";
+"Item Image" = "Item Image";
+"Coupon" = "Купон";
+"Payment" = "Оплата";
+"Subscription" = "Подписка";
+"Select a payment gateway." = "Выберите поатёжный шлюс.";
+"Incomplete checkout setup - Click for more info." = "Неполная настройка оформления заказа - Нажмите для большей информации.";
+"Single Purchase Only" = "Только разовая покупка";
+"Ecwid product ID." = "Ecwid product ID.";
+"Gumroad product URL." = "Gumroad product URL.";
+"Allow single-product purchases only." = "Allow single-product purchases only.";
+"Snipcart unique product ID." = "Snipcart unique product ID.";
+"The name of the Snipcart product." = "The name of the Snipcart product.";
+"Snipcart product price. You must use a . as decimal separator." = "Snipcart product price. You must use a . as decimal separator.";
+"Snipcart product description." = "Snipcart product description.";
+"Product's page (URL), must be where the buy button is located. This will be used by our crawler when validating order integrity." = "Product's page (URL), must be where the buy button is located. This will be used by our crawler when validating order integrity.";
+"Snipcart product image URL. Avoid linking to a large image; try to use an optimized one." = "Snipcart product image URL. Avoid linking to a large image; try to use an optimized one.";
+"The ID of the Paddle Product, Subscription or Bundle this checkout is for." = "The ID of the Paddle Product, Subscription or Bundle this checkout is for.";
+"Pre-fill the quantity selector on the checkout. Please note that free products/subscription plans are fixed to a quantity of 1." = "Pre-fill the quantity selector on the checkout. Please note that free products/subscription plans are fixed to a quantity of 1.";
+"Pre-fill a coupon code on the checkout." = "Pre-fill a coupon code on the checkout.";
+"Select the success redirect type." = "Select the success redirect type.";
+"A page to redirect to upon checkout completion." = "A page to redirect to upon checkout completion.";
+"A URL to redirect to upon checkout completion." = "A URL to redirect to upon checkout completion.";
+"Disable the quantity selector on the checkout page." = "Disable the quantity selector on the checkout page.";
+"Select the Stripe payment type, single payment or subscription." = "Select the Stripe payment type, single payment or subscription.";
+"The Price ID (API ID) of the Stripe Product." = "The Price ID (API ID) of the Stripe Product.";
+"Set the item quantity at checkout." = "Set the item quantity at checkout.";
+"The page to redirect to upon checkout completion." = "The page to redirect to upon checkout completion.";
+"The page to redirect to when checkout is cancelled." = "The page to redirect to when checkout is cancelled.";
+
+// Ecommerce Help Popup
+"In order for this buy button to work, please fill in the Stripe Publishable key and set the web address in Project Settings." = "In order for this buy button to work, please fill in the Stripe Publishable key and set the web address in Project Settings.";
+"In order for this buy button to work, please fill in the Stripe Publishable key." = "In order for this buy button to work, please fill in the Stripe Publishable key.";
+"In order for this buy button to work, please set the web address in Project Settings." = "In order for this buy button to work, please set the web address in Project Settings.";
+"In order for this buy button to work, please fill in the Paddle vendor ID in Project Settings." = "In order for this buy button to work, please fill in the Paddle vendor ID in Project Settings.";
+"In order for this buy button to work, please fill in the Ecwid store ID in Project Settings." = "In order for this buy button to work, please fill in the Ecwid store ID in Project Settings.";
+"In order for this buy button to work, please fill in the Snipcart API key in Project Settings." = "In order for this buy button to work, please fill in the Snipcart API key in Project Settings.";
+
+
+// Page Navigator
+"Add New Page (⌘+P)" = "Добавить новую страницу (⌘+P)";
+"Site Home Page" = "Главная страница сайта";
+"Empty Page" = "Пустая страница";
+
+
+// Layer Tree
+"This item is required and can not be deleted." = "Этот пункт является обязательным и не может быть удален.";
+
+// Layer Tree Titles
+"Nav Bar" = "Навигационная панель";
+"Button Group" = "Группа кнопок";
+"Inner Container" = "Внутренний контейнер";
+"Carousel Indicators" = "Индикатор карусели";
+"Caption Area" = "Область с надписями";
+"Previous Button" = "Кнопка: Предыдущий"; // Check it
+"Card Header" = "Заголовок карточки";
+"Modal Header" = "Заголовок Модального окна";
+"Nav Toggle" = "Переключение навигации";
+"List Item" = "Пункт списка";
+"Span" = "Span";
+"Div Container" = "Div Контейнер";
+"Nav Container" = "Nav Bar Контейнер";
+"Bold Wrapper" = "Жирная обводка"; //too
+"Italic Wrapper" = "Курсивная обводка"; //too
+"Underline Wrapper" = "Underline Wrapper";
+"Strikethrough Wrapper" = "Strikethrough Wrapper";
+"Line Break" = "Line Break";
+"Top Bloc Edge Divider" = "Top Bloc Edge Divider";
+"Bottom Bloc Edge Divider" = "Bottom Bloc Edge Divider";
+
+// Layer Tree Contextual Menu Items
+"Expand Contents" = "Развернуть содержимое";
+"Collapse Contents" = "Свернуть содержимое";
+"Add Bloc To Library" = "Добавить Блок в Библиотеку Блоков";
+"Move To Another Page" = "Переместить на другую страницу";
+"Reset Layer Title" = "Сбросить название слоя";
+
+// Layer Tree Eye Icon Tooltip
+"Hide item on Design Canvas." = "Скрыть элемент на Холсте.";
+
+// Layer Tree Mini Button Tooltips
+"Expand All Layers" = "Раскрыть все слои";
+"Collapse All Layers" = "Свернуть все слои";
+"Delete Layer (⌘⌫)" = "Удалить слой (⌘⌫)";
+
+// Layer Tree Options
+"Layer Tree Settings" = "Настройки дерева слоев";
+"Scroll to Selected" = "Перейти к выбранному";
+"Include ID in Layer Title" = "Включить идентификатор в название слоя";
+"Include Classes in Layer Title" = "Включить классы в название слоя";
+"Solo Mode" = "Режим соло";
+
+// Forms
+"Please enter a valid email address." = "Пожалуйста, введите корректный Email адрес.";
+"Form submission cannot be simulated from the desktop." = "Форма не может быть имитированна на локальном компьютере.";
+"Your exported project contains a form. Forms will only work when hosted on a server with PHP enabled. When run from the desktop, form submissions will not be processed." = "Экспортированный вами проект содержит форму. Формы будут работать только при размещении на сервере с включенным PHP. При запуске с локального компьютера отправленные вами формы не будут обрабатываться.";
+
+
+// Swatch Manager
+"Sorry this swatch cannot be deleted as it is required by the core Blocs style management." = "К сожалению, этот образец не может быть удален, поскольку он необходим для управления основным стилем Blocs.";
+"Are you sure you would like to delete this (%@) swatch? Please consider it will affect all objects in your current document that use this swatch." = "Вы уверены, что хотите удалить этот (%@) образец цвета? Пожалуйста, учтите, что это повлияет на все объекты в текущем документе, которые используют этот цвет..";
+
+
+// Assets
+"The image file (%@) is not optimised for the web, please take care to use images that are under 3MB in size to ensure optimal site loading and rendering performance." = "Файл изображения (%@) не оптимизирован для веб использования, пожалуйста, старайтесь использовать изображения размером менее 3 МБ для обеспечения оптимальной загрузки и рендеринга сайта.";
+"The image file (%@) is not optimised for the web, please take care to use images that are under 3MB in size to ensure optimal site loading and rendering performance. Would you like to edit this image in Blocs and reduce its file size?" = "Файл изображения (%@) не оптимизирован для веб, пожалуйста, старайтесь использовать изображения размером менее 3 МБ для обеспечения оптимальной загрузки и рендеринга сайта. Вы хотите отредактировать это изображение в Blocs и уменьшить размер файла?";
+"The video file (%@) is not optimised to use as a video background, we recommend you don't use video files over 10MB as video backgrounds as they will affect the loading performance of your site." = "Видеофайл (%@) не оптимизирован для использования в качестве видеофона, мы рекомендуем не использовать видеофайлы размером более 10 МБ в качестве видеофона, так как они влияет на производительность и скорость загрузки вашего сайта.";
+"This file (%@) could not be added to your Blocs project as it is not supported." = "Этот файл (%@) не может быть добавлен в ваш проект Blocs, поскольку он не поддерживается.";
+"File Size Warning" = "Предупреждение о размере файла";
+
+// Remove All Project Assets
+"Are you sure you would like to remove all assets from this project? This cannot be undone." = "Вы уверены, что хотите удалить все вложения из этого проекта? Это нельзя отменить.";
+"Yes, remove all project assets" = "Да, удалить все вложения проекта";
+
+// Remove All Background Images
+"Are you sure you would like to remove all Bloc background images from this project? This cannot be undone." = "Вы уверены, что хотите удалить все фоновые изображения Bloc из этого проекта? Это невозможно отменить.";
+
+
+"Add Favicon" = "Добавить значок сайта";
+"Select an Asset" = "Выбрать вложение";
+
+
+// Option Select Controls
+"Option Select item title." = "Опция Выбрать название элемента."; // Check it
+"Option Select item value." = "Опция Выбрать значение элемента."; //too
+"Add new Option Select item." = "Добавить новую опцию Выберите элемент."; //too
+"Remove Option Select item." = "Удалить опцию Выберите элемент."; //too
+"Option Select Settings." = "Выбор опции настройки."; //too
+"Value:" = "Значение:";
+
+
+// Duplicate Bloc
+"Destination:" = "Место назначения:";
+"Copies:" = "Копии:";
+"The number of copies you would like to generate." = "Количество копий которое вы хотите создать.";
+
+
+// Solis
+"Solis has requested data from Blocs in order to preview your Blocs projects within Solis. To allow Solis to connect with Blocs you will need to enable Canvas Broadcasting." = "Solis запросил данные у Blocs для предварительного просмотра ваших проектов Blocs в Solis. Чтобы Solis мог соединиться с Blocs, вам необходимо включить функцию Canvas Broadcasting.";
+"Enable Canvas Broadcasting" = "Включить Canvas Broadcasting";
+
+
+// Code Warnings
+"Possible jQuery library duplicates detected! This may cause your site to break, when exported." = "Обнаружены возможные дубликаты библиотек jQuery! Это может привести к поломке вашего сайта при экспорте.";
+
+
+// Google Fonts
+"Because you don't currently have an internet connection you wont be able to access Google fonts in your design." = "Поскольку в настоящее время у вас нет подключения к Интернету, вы не сможете использовать шрифты Google в своем дизайне.";
+"New Fonts Detected" = "Обнаружен новый шрифт";
+
+"The page template you have selected uses some Google fonts that you don't have installed. Would you like Blocs to install them for you?" = "Выбранный вами шаблон страницы использует некоторые шрифты Google, которые у вас не установлены. Хотите, чтобы Blocs установил их для вас?";
+"Yes, install fonts" = "Да, установить шрифт";
+
+"Font Already Installed" = "Шрифт уже установлен";
+"This font (%@) is already installed." = "Этот шрифт (%@) уже установлен.";
+
+"%@ font has been successfully installed." = "%@ был успешно установлен.";
+"Font Installed" = "Шрифт установлен";
+
+"Web Font Can't Be Installed" = "Веб-шрифт не может быть установлен";
+"Sorry, this font can't be installed as it's an early access Google font." = "Извините, этот шрифт не может быть установлен, так как это шрифт раннего доступа Google..";
+"Sorry, this web font can't be installed. Make sure the directory you selected contains web fonts in the following formats (.eot, .woff, .woff2, .ttf, .svg)." = "Простите, этот шрифт не может быть установлен. Шрифт должен иметь следующие форматы (.eot, .woff, .woff2, .ttf, .svg).";
+
+// Font Manager
+"Google Web Fonts" = "Онлайн Шрифты Google";
+"Local Web Fonts" = "Локальные Web шрифты";
+"Add Font" = "Добавить шрифт";
+"Remove Installed Font" = "Удалить установленный шрифт";
+"Select folder containing web font(s)." = "Выбери папку с шрифтами.";
+"Paste Google font header link below." = "Вставь ссылку на Google шрифт.";
+"Paste the header code snippet provided by Google in this field." = "Вставьте фрагмент кода заголовка, предоставленный Google, в это поле.";
+"Enter your own text" = "Enter your own text";
+
+// Missing Font Manager¶
+"You are about to remove all references of the font (%@) from this project. Would you like to continue?" = "Вы собираетесь удалить все ссылки на шрифт (%@) из этого проекта. Хотите ли вы продолжить?";
+"Remove Font From Project" = "Удалить шрифт из проекта";
+"Yes, Remove" = "Да, удалить";
+
+// Global Content
+"The page template you have selected contains global area content, would you like to add this to your project global areas?" = "Выбранный вами шаблон страницы содержит содержимое глобальные области, хотите ли вы добавить это в глобальные области вашего проекта?";
+"Yes, add content" = "Да, добавить контент";
+
+
+// Bloc Padding
+"Changing this Blocs padding from Fill Screen will cause the data in the additional top and bottom content areas to be removed. Do you wish to continue?" = "Изменение параметра Blocs padding с Fill Screen приведет к удалению данных в дополнительных верхних и нижних областях содержимого. Вы хотите продолжить?";
+"The fill screen padding option is now set across all breakpoints, it cannot be combined with alternative padding settings." = "Опция заполнения экрана паддингом теперь устанавливается для всех точек останова, ее нельзя комбинировать с альтернативными настройками паддинга.";
+
+
+
+// Attach Resources
+"Attach Resource" = "Attach Resource";
+"Select files you would like to attach to this project." = "Выберите файлы, которые вы хотите прикрепить к этому проекту.";
+"Select files you would like to attach to this page." = "Выберите файлы, которые вы хотите прикрепить к этой странице.";
+
+// Bric Builder
+"Contains unsaved changes" = "Содержит несохраненные изменения";
+"Select files you would like to add to this custom Bric." = "Выберите файлы, которые вы хотите добавить в этот пользовательский Bric.";
+"Click the + button to create a custom Bric." = "Нажмите кнопку +, чтобы создать пользовательский Bric модуль.";
+"Duplicate Bric" = "Дублировать Bric";
+"Template Values" = "Значение шаблона";
+"Add new Bric" = "Добавить новый Кирпич";
+"Helper Classes" = "Классы помощников";
+
+
+
+// Misc
+"Don't show this warning in future." = "Не показывать это предупреждение в будущем.";
+
+// Global Code Area Notes
+"Will be truncated at %ld characters" = "Will be truncated at %ld characters";
+"Code will appear before the closing </head> tag on every page." = "Код будет отображаться перед закрывающим тегом </head> на каждой странице.";
+"Code will appear before the closing </body> tag on every page." = "Код будет отображаться перед закрывающим тегом </body> на каждой странице.";
+"Code will appear before the <!doctype html> tag on every page." = "Код будет отображаться перед тегом <!doctype html> на каждой странице.";
+"Code will appear after the closing </html> tag on every page." = "Код появится после закрывающего тега </html> на каждой странице.";
+
+
+// Page Code Area Notes
+"Code will appear before the closing </head> tag on this page." = "Код появится перед закрывающим тегом </head> на этой странице.";
+"Code will appear before the closing </body> tag on this page." = "Код появится перед закрывающим тегом </body> на этой странице.";
+"Code will appear before the <!doctype html> tag on this page." = "Код появится перед тегом <!doctype html> на этой странице.";
+"Code will appear after the closing </html> tag on this page." = "Код появится после закрывающего тега </html> на этой странице.";
+"Additional CSS will be added to style.css." = "Дополнительный CSS будет добавлен в style.css.";
+
+// Misc Additional Code
+"Code will be included in extra-functions.php file." = "Код будет включен в файл extra-functions.php.";
+"Code Widget content" = "Код содержимого виджета";
+
+
+// Notification Messages
+"To add a Bric in Drop Mode, move the mouse cursor over the area you want to place the Bric, when you see the blue marker, click and it will be added." = "Чтобы добавить Блок в Дроп режиме, наведите курсор мыши на область, куда вы хотите поместить кирпич, когда вы увидите синий маркер, щелкните, и он будет добавлен.."; // Check it
+
+"Brics can only be added within a Bloc. Click the + button to add a Bloc to your page first." = "Блоки можно добавлять только внутри блока. Нажмите кнопку +, чтобы сначала добавить блок на свою страницу.";
+
+"Your project is configured to link to assets, rather than embed them. This means the assets are loaded from the original location on your Mac. If the location for an asset changes, the link will break and the asset will fail to load within Blocs." = "Ваш проект настроен на ярлык вашего вложения, а не на их встраивание. Это означает, что активы загружаются из исходного местоположения на вашем Mac. Если местоположение актива изменится, ссылка прервется, и актив не сможет загрузиться в Blocs..";
+
+"We have a helpful beginners guide explaining the basics of publishing a site online, if you are new to creating websites, you may find it helpful." = "Мы подготовили полезное руководство для начинающих, объясняющее основы публикации сайта в Интернете. Если вы новичок в создании сайтов, оно может оказаться вам полезным.";
+
+"The Bloc you just added is located in one of the project Global Areas. This means it will show on every page. Global Areas are typically used for the navigation and footer of a website.\n\nTake care to use the area between the blue lines for page content that is intended to be limited to this page only." = "Блок, который вы только что добавили, находится в одной из глобальных областей проекта. Это означает, что он будет отображаться на каждой странице. Глобальные области обычно используются для навигации и нижнего колонтитула сайта.\n\nПозаботьтесь о том, чтобы использовать область между синими линиями для содержимого страницы, которое должно быть ограничено только этой страницей.";
+
+"If you add extra inputs to a form, don't forget to give them ID's, this ensures that their data will be included when the form is posted." = "Если вы добавляете в форму дополнительные входы, не забудьте присвоить им идентификаторы, это гарантирует, что их данные будут включены в форму при ее размещении.";
+
+"We have a helpful free video tutorial that covers the basics of creating a Pulse CMS theme with Blocs." = "У нас есть полезный бесплатный видеоурок, который рассказывает об основах создания темы Pulse CMS с помощью Blocs.";
+
+"We have a helpful free video tutorial that covers the basics of creating an October CMS theme with Blocs." = "У нас есть полезный бесплатный видеоурок, который охватывает основы создания темы October CMS с помощью Blocs.";
+
+"We have a helpful knowledge base article covering setting up and integrating Disqus comments in sites created with Blocs." = "У нас есть полезная статья в базе знаний, посвященная настройке и интеграции комментариев Disqus в сайты, созданные с помощью Blocs.";
+
+"Once a Text Bric is selected, hit return, or click a second time to edit the text value." = "После выбора текстового блока нажмите кнопку return (Enter) или щелкните второй раз, чтобы изменить значение текста..";
+
+"Once a Button Bric is selected, click a second time to edit the label value." = "Once a Button Bric is selected, click a second time to edit the label value.";
+
+"Once an Image Bric is selected, you can change the image by clicking it a second time to access the Asset Manager." = "После выбора модуля Image можно изменить изображение, нажав на него второй раз, чтобы перейти в менеджер активов..";
+
+"You can change the visual characteristics of any element on a specific breakpoint using custom classes." = "Вы можете изменить визуальные характеристики любого элемента в для любого экрана с помощью пользовательских классов.";
+
+"Sorry, this Bric can't be placed within a similar Bric." = "К сожалению, этот кирпич не может быть размещен внутри аналогичного кирпича.";
+
+
+// Volt CMS Warning
+"Volt CMS requires that all pages have the PHP suffix and the clean URL export option enabled. Would you like to enable these settings?" = "Volt CMS требует, чтобы на всех страницах был включен суффикс PHP и опция экспорта чистых URL. Вы хотите включить эти параметры?";
+
+// Core Bric Titles
+"Heading 1" = "Заголовок 1";
+"Heading 2" = "Заголовок 2";
+"Heading 3" = "Заголовок 3";
+"Heading 4" = "Заголовок 4";
+"Heading 5" = "Заголовок 5";
+"Heading 6" = "Заголовок 6";
+"Heading & Paragraph" = "Заголовки и Параграфы";
+"Icon & Paragraph" = "Иконки и Параграф";
+"Icon Heading" = "Заголовок значка";
+"Blockquote Left" = "Блок-цитата слева";
+"Blockquote Right" = "Блок-цитата справа";
+"Round Image" = "Круглая картинка";
+"Carousel" = "Карусель";
+"Masonry Gallery" = "Masonry Галлерея";
+"Icon Framed" = "Иконка в рамке";
+"Button" = "Кнопки (Button)";
+"Dropdown" = "Раскрывающееся меню";
+"Tweet Button" = "Кнопка Твиттера";
+"Text Link" = "Текст ссылка";
+"Text Field" = "Текстовое поле";
+"Text Area" = "Текстовая зона";
+"Option Select" = "Выбор вариантов";
+"Radio" = "Кнопки выбора";
+"Column Row" = "Колонки (Column Row)";
+"Container" = "Контейнер";
+"Card with Head" = "Карточки с головой";
+"Accordion" = "Аккордеон";
+"Tabbed Content" = "Контент по вкладкам";
+"Code Widget" = "Виджет стороннего кода (Code Widget)";
+"Phone" = "Телефон";
+"Tablet" = "iPad's";
+"Watch" = "Apple Watches";
+"Laptop" = "MacBook'и";
+"Desktop" = "iMac'и";
+"Disqus Widget" = "Disqus Виджет";
+"Pulse CMS" = "Pulse CMS";
+"October CMS" = "October CMS";
+"Audio Player" = "Аудио плеер";
+"Modal" = "Модальные окна";
+
+
+// Core Bric Descriptions
+"The <h1> to <h6> tags are used to define HTML headings. <h1> is the most important and <h6> the least." = "Теги <h1> - <h6> используются для определения заголовков HTML. <h1> является наиболее важным, а <h6> - наименее.";
+"The <p> tag defines a paragraph, commonly used to add blocks of text content to pages." = "Тег <p> определяет абзац, обычно используемый для добавления блоков текстового содержимого на страницы.";
+"A heading and paragraph are a combined set of text components." = "Заголовок и абзац - это комбинированный набор текстовых компонентов.";
+"A heading and paragraph are a combined set of text components with the addition of an icon." = "Заголовок и абзац - это комбинированный набор текстовых компонентов с добавлением значка.";
+"A heading with the addition of an icon." = "Заголовок с добавлением значка.";
+"A blockquote left is a text component with a distinct style aligned to the left." = "Блок-цитата слева - это текстовый компонент с отдельным стилем, выровненный по левому краю.";
+"A blockquote right is a text component with a distinct style aligned to the right." = "Правая блочная цитата - это текстовый компонент с отдельным стилем, выровненный вправо.";
+"The <img> tag is used to embed an image in an HTML page." = "Тег <img> используется для вставки изображения в HTML-страницу.";
+"An <img> tag with an additional class to make it circular." = "Тег <img> с дополнительным классом, чтобы сделать его закруглённым.";
+"The <video> tag is used to embed video content in a document, such as a movie clip or other video streams." = "Тег <video> используется для встраивания видеоконтента в документ, например, клипа фильма или других видеопотоков.";
+"A carousel is a component for cycling through images." = "Карусель - это компонент для циклического просмотра изображений в виде галлереи.";
+"A collection of images arranged in a masonry layout." = "Коллекция изображений, расположенных в макете кладки.";
+"An icon is a representative symbol used to help communicate a visual message." = "Значок - это репрезентативный символ, используемый для передачи визуального сообщения..";
+"Allow a user to invoke an interaction such as navigating to another page." = "Разрешите пользователю вызвать взаимодействовать, например, перейти на другую страницу.";
+"A drop-down button provides a list of items with individual interaction types." = "Выпадающая кнопка предоставляет список элементов с отдельными типами взаимодействия.";
+"Share something on Twitter." = "Поделитесь чем-нибудь в Twitter.";
+"A <form> tag is used to create an HTML form for user input." = "Тег <form> используется для создания HTML-формы для ввода данных пользователем.";
+"The <input> tag specifies an input field where the user can enter data." = "Тег <input> определяет поле ввода, в которое пользователь может ввести данные.";
+"The <textarea> tag defines a multi-line text input control." = "Тег <textarea> определяет многострочный элемент управления текстовым вводом.";
+"The <option> tag defines an option in a select list." = "Тег <option> определяет опцию в списке выбора.";
+"An input component most commonly used in forms." = "Компонент ввода, наиболее часто используемый в формах.";
+"The <label> tag defines a text label." = "Тег <label> определяет текстовую метку.";
+"A layout component with a distinct visual style." = "Компонент макета с выраженным визуальным стилем.";
+"A row containing %d columns." = "Строка, содержит %d столбцов."; // Check it
+"A row containing 1 column." = "Строка, содержит 1 столбец."; //too
+"The <div> tag defines a division or a section in an HTML document." = "Тег <div> определяет разделение или раздел в HTML-документе.";
+"A vertically stacked list, which allows its content to be collapsed." = "Вертикально сложенный список, содержимое которого можно свернуть.";
+"A content area that has its content controlled by navigation tabs." = "Область содержимого, содержимое которой управляется с помощью навигационных вкладок.";
+"The <ul> tag defines an unordered list." = "Тег <ul> определяет неупорядоченный список.";
+"A layout component used to separate items." = "Компонент макета, используемый для разделения элементов.";
+"Add additional custom code into a page." = "Добавление дополнительного пользовательского кода на страницу.";
+"A presentation component used for displaying screen shots." = "Компонент презентации, используемый для отображения снимков экрана.";
+"Adds discussions / commenting functionality." = "Добавляет функцию обсуждения / комментирования.";
+"A container used to house elements that can be edited via a CMS." = "Контейнер, используемый для размещения элементов, которые можно редактировать с помощью CMS.";
+"A collection of links used to navigate a site." = "Набор ссылок, используемых для навигации по сайту.";
+"The <audio> tag is used to embed sound content in a document, such as music or other audio streams." = "Тег <audio> используется для встраивания звукового содержимого в документ, например, музыки или других аудиопотоков..";
+"A popup overlay container that can be displayed via a user interaction." = "Всплывающий накладной контейнер, который может быть отображен при взаимодействии с пользователем.";
+
+// Code Editor
+"Row" = "Строка (Row)";
+"Column" = "Колонка (Column)";
+"Typeface:" = "Шрифт:";
+"Font Size:" = "Размер шрифта:";
+"Project - Header" = "Проект - Заголовки";
+"Project - Footer" = "Проект - Колонтитул (Footer)";
+"Project - Before <!DOCTYPE>" = "Проект - До <!DOCTYPE>";
+"Project - After </HTML>" = "Проект - После </HTML>";
+"Page - Header" = "Страница - Заголовок";
+"Page - Footer" = "Страница - Колонтитул (Footer)";
+"Page - Before <!DOCTYPE>" = "Страница - До <!DOCTYPE>";
+"Page - After </HTML>" = "Страница - После </HTML>";
+"Additional CSS (style.css)" = "Дополнительный CSS (style.css)";
+
+// Search bar
+"Search Pages" = "Страницы поиска";
+"Search Pages - %ld" = "Поиск страниц - %ld"; // Check it
+"Search Templates" = "Поиск шаблона";
+"Search Brics" = "Поиск Модуля";
+"Search Lessons" = "Поиск Урока";
+
+// Project Settings
+"General" = "Общее";
+"Typography" = "Типография";
+"Buttons" = "Кнопки";
+"Site Images" = "Картинки сайта";
+"Analytics" = "Аналитика";
+"Project Attachments" = "Приложения к проекту";
+"Form ReCapture" = "Форма ReCapture";
+"Site Details" = "Детали сайта";
+"Accounts" = "Аккаунт";
+"Misc" = "Дополнительно";
+"Preloader" = "Предзагрузчик";
+"Wordpress" = "Wordpress";
+"Home Page:" = "Домашнаяя страница:";
+"Background:" = "Фон:";
+"Body Classes:" = "Тело классов:";
+"Active Link Class:" = "Активные ссылки классов:";
+"Breakpoint:" = "Устройство:"; //too
+"Object:" = "Объекты:";
+"Color:" = "Цвет:";
+"Line Height:" = "Line Height:";
+"Direction:" = "Направл.:";
+"Style:" = "Стиль:";
+"Size:" = "Размер:";
+"Corners:" = "Углы:";
+"Favicon:" = "Значок сайта:";
+"Logo:" = "Логотип:";
+"Site Key:" = "Site Key:";
+"Secret Key:" = "Secret Key:";
+"Version:" = "Версия:";
+"Tags:" = "Теги:";
+"Twitter:" = "Твиттер:";
+"Facebook:" = "Фейсбук:";
+"Facebook Admin:" = "Фейсбук Админ:";
+"Facebook App ID:" = "App ID Фейсбука:";
+"Disqus:" = "Disqus:";
+"Stripe Publish Key:" = "Stripe Publish Key:";
+"Paddle Vendor ID:" = "Paddle Vendor ID:";
+"Ecwid Store ID:" = "Ecwid Store ID:";
+"Snipcart API Key:" = "Snipcart API Key:";
+"Minify:" = "Оптимизация:";
+"Thumb:" = "Эскиз:";
+"Export Location:" = "Путь экспорта:";
+"Adobe Fonts ID:" = "Adobe Fonts ID:";
+
+
+// Project Settings Text Field Tooltips
+"The site name value is used for social cards." = "Значение имени сайта используется для социальных карт.";
+"The web address this site will be hosted at." = "Веб-адрес, на котором будет размещен этот сайт.";
+"These classes are added to the body tag of every page." = "Эти классы добавляются в тег body каждой страницы.";
+"The class added to links that match the current browser URL." = "Класс, добавляемый к ссылкам, которые соответствуют текущему URL-адресу браузера.";
+"Google recapture site key." = "Google recapture site key.";
+"Google recapture secret key." = "Google recapture secret key.";
+"Site / Theme Version" = "Site / Theme Version";
+"Site / Theme Author" = "Site / Theme Author";
+"Site / Theme Description" = "Site / Theme Description";
+"Site / Theme Tags" = "Site / Theme Tags";
+"Twitter username." = "Twitter username.";
+"Facebook username." = "Facebook username.";
+"Value is used with (fb:admins) Facebook social card property." = "Value is used with (fb:admins) Facebook social card property.";
+"Value is used with (fb:app_id) Facebook social card property." = "Value is used with (fb:app_id) Facebook social card property.";
+"The name you entered when you created the Disqus account for this site." = "The name you entered when you created the Disqus account for this site.";
+"The publishable key Stripe provide." = "The publishable key Stripe provide.";
+"The vendor ID Paddle provide." = "The vendor ID Paddle provide.";
+"The store ID Ecwid provide." = "The store ID Ecwid provide.";
+"The API key Snipcart provide." = "The API key Snipcart provide.";
+"Adobe fonts project ID." = "Adobe fonts project ID.";
+
+// Project Settings Text Field Placeholders
+"My Site" = "Мой сайт";
+"Seperate classes with spaces" = "Разделяйте классы используя пробел";
+"Inherited" = "наслед.";
+
+// Project Settings Checkbox Labels
+"Enable Google Fonts" = "Включить Google шрифт.";
+"Enable Image Protection Site Wide" = "Включить защиту от копирования картинок";
+"Enable Preloader" = "Включить предзагрузчик страницы";
+"Disable animation on SM & XS breakpoints" = "Отключить анимации на SM и XS устройствах";
+"Include WP admin bar on site" = "Include WP admin bar on site";
+"Add support for featured images on pages" = "Add support for featured images on pages";
+"Include logo customizer theme option" = "Include logo customizer theme option";
+"Automatic page generator function" = "Automatic page generator function";
+
+// Project Settings Button Labels
+"Select Export Location..." = "Выбрать путь экспорта...";
+
+// Project Settings Tooltips
+"Set the default export location for this project." = "Установите местоположение экспорта по умолчанию для этого проекта.";
+"Clear current color value." = "Очистите текущее цветовое значение."; // Check it
+"Add file attachment to project." = "Добавить вложение файла в проект.";
+"Remove file attachment from project." = "Удалить вложение из проекта.";
+
+// Project Settings Text Target Dropdown Menu Items
+"Paragraph" = "Параграф";
+"Link" = "Ссылка";
+"Navigation Link" = "Ссылка навигации";
+"Logo Text" = "Текст логотипа";
+
+// Project Settings Preloader Dropdown Menu Items
+"Circular" = "Circular";
+"Classic Spinner" = "Classic Spinner";
+"Gears" = "Gears";
+"Dots" = "Dots";
+"Dots Rotate" = "Dots Rotate";
+"Dots Spinner" = "Dots Spinner";
+"Square Rotate" = "Square Rotate";
+"Diamond" = "Diamond";
+
+// Project Settings Thumbnail Tooltips
+"Wordpress theme thumbnail - Recommended size (1200 x 900px)" = "Эскиз темы Wordpress - рекомендуемый размер (1200 x 900px)";
+
+// Project Settings Additional Info
+"Supported file formats: JS, CSS, JSON and Folders." = "Поддерживаемые форматы: JS, CSS, JSON и папки.";
+"1200x900px Recommended" = "Рекомендуется 1200x900px";
+
+
+// Page Settings Titles
+"Page Settings" = "Настройки страницы";
+"SEO" = "SEO";
+"Social Cards" = "Социальные Карточки";
+"Page File Attachments" = "Вложения файлов этой страницы";
+
+// Page UI Labels Titles
+"Page Name:" = "Имя страницы:";
+"File Type:" = "Тип файла:";
+"Type:" = "Тип:";
+"Language:" = "Язык:";
+"Settings:" = "Настройки:";
+"Global Areas:" = "Глобальные области:";
+"Page name already used!" = "Имя страницы уже используется!";
+"Browser Title:" = "Заголовок:";
+"Description:" = "Описание:";
+"Robots:" = "Роботы:";
+"Misc:" = "Доп.:";
+"Title:" = "Заголовок:";
+"Card:" = "Соц. сеть:";
+"Preview:" = "Предпросмотр:";
+
+// Page Settings Field Tooltips
+"The file name for the page." = "Имя файла для страницы.";
+"This page is the current home page for the website. When the project is exported this page will be automatically renamed to index. If you wish to change the file name for this page, set an alternative home page in the main project settings." = "Эта страница является текущей главной страницей сайта. При экспорте проекта эта страница будет автоматически переименована в index. Если вы хотите изменить имя файла для этой страницы, задайте альтернативную домашнюю страницу в основных настройках проекта.";
+"The meta title for the page." = "Мета-заголовок для страницы.";
+"The meta keywords for the page." = "Ключевые слова для этой страницы.";
+"The meta description for the page." = "Описание этой страницы.";
+"The social card title." = "Заголовок соц. карточки.";
+"The social card description." = "Описание соц. карточки.";
+"These classes are added to the body tag of the current page." = "Эти классы добавляются в тег body текущей страницы.";
+
+// Page Settings Button Tooltips
+"Open in Code Editor." = "Открыть в редакторе кода.";
+"Remove file attachment from page." = "Удаление вложения файла со страницы.";
+"Add file attachment to page." = "Добавить вложение файла на страницу.";
+"A page already exists in this project with this name." = "В этом проекте уже существует страница с таким именем.";
+"This feature requires the web address to be populated in the main project settings, otherwise it will not be included in the exported code." = "Эта функция требует, чтобы веб-адрес был заполнен в основных настройках проекта, иначе он не будет включен в экспортируемый код.";
+
+// Page Settings Dropdown Tooltips
+"Page file extension." = "Расширение файла страницы.";
+"Page language meta value." = "Page language meta value.";
+"The social network card type." = "Тип карты социальной сети.";
+"The Twitter social card type." = "Тип социальной карты Twitter/Telegram.";
+"The Facebook Open Graph social card type." = "Тип социальной карты Facebook Open Graph.";
+"Select code input location." = "Выберите место ввода кода.";
+
+// Page Settings General Checkbox Labels
+"Use in Primary Menu" = "Использовать в Главном Меню";
+"Scroll to Top Button" = "Кнопка прокрутки к Верху сайта"; // Check it
+"Fixed Viewport" = "Фиксировать Viewport"; //too
+"Allow Mobile Zoom" = "Разрешить зум на мобильном";
+"Top Area" = "Раздел под Nav Bar";
+"Bottom Area" = "Раздел под Footer";
+"Excluded From Export" = "Исключено из проекта";
+"Credit Blocs" = "Авторское право Blocs";
+
+// Page Settings SEO Checkbox Labels
+"Enable Robot Meta Tag" = "Включить Robot Meta Tag";
+"Index This Page" = "Находить эту страницу";
+"Follow Links" = "Следовать по ссылкам";
+"Enable Canonical Meta Tag" = "Включить тег Canonical Meta";
+
+// Page Settings Social Cards Checkbox Labels
+"Include Twitter Card" = "Включить Карточку Твиттера";
+"Include Facebook Open Graph Card" = "Включить Карточку Фейсбук Open Graph";
+
+// Page Settings General Checkbox Tooltips
+"Add fixed viewport meta tag to page head." = "Добавьте метатег фиксированной области просмотра в шапку страницы.";
+"Add user-scalable=no to viewport meta tag." = "Добавьте user-scalable=no в метатег viewport.";
+"Include a scroll to top button on this page." = "Включите кнопку прокрутки к верху на этой странице.";
+"Include a link to this page in the Primary menu." = "Вставить ссылку на эту страницу в Главное Меню.";
+"Exclude this page when the site is exported." = "Исключить эту страницу при экспорте сайта.";
+"Include a meta tag and small link that credits Blocs." = "Включите мета-тег и небольшую ссылку, кредитующую Blocs.";
+"The top global area appears at the top of all pages." = "Верхняя область сайта за синей линией отображается в верхней части НА всех страницах.";
+"The bottom global area appears at the bottom of all pages." = "Нижняя глобальная область отображается внизу за синей линией НА всех страницах.";
+
+// Page Settings SEO Checkbox Tooltips
+"Include the robot meta tag in the page head." = "Включите метатег robot в шапку страницы.";
+"Include this page in the site map and allow crawlers to index it for search engines." = "Включить эту страницу в карту сайта и позволить паукам индексировать ее для поисковых систем.";
+"Tell crawlers to follow any links on this page." = "Разрешить паукам переходить по любым ссылкам на этой странице.";
+"A canonical tag (aka \"rel canonical\") is a way of telling search engines that a specific URL represents the master copy of a page. Using the canonical tag prevents problems caused by identical or \"duplicate\" content appearing on multiple URLs." = "A canonical tag (aka \"rel canonical\") is a way of telling search engines that a specific URL represents the master copy of a page. Using the canonical tag prevents problems caused by identical or \"duplicate\" content appearing on multiple URLs.";
+
+// Page Settings Code Zone Selector Dropdown Menu
+"Before <!DOCTYPE>" = "До <!DOCTYPE>";
+
+// New Page Sheet
+"Wordpress Template Page Names" = "Названия страниц шаблонов Wordpress";
+"A page with this name already exists in this project." = "Страница с таким именем уже существует в этом проекте.";
+"Browse Store For Templates" = "Просмотреть магазин шаблонов";
+"New Page" = "Новая страница";
+
+// Wordpress Page Name Menu
+"Blog Post Page Template (single)" = "Blog Post Page Template (single)";
+"Page Template (page)" = "Page Template (page)";
+"Author Page Template (author)" = "Author Page Template (author)";
+"Category Template (category)" = "Category Template (category)";
+"Search Results Template (search)" = "Search Results Template (search)";
+"Tag Template (tag)" = "Tag Template (tag)";
+"Archive Template (archive)" = "Archive Template (archive)";
+"404 Template (404)" = "404 Template (404)";
+
+
+// Custom Bloc Creation Sheet
+"Custom Bloc Options" = "Пользовательские опции блока";
+"Required Bloc Classes" = "Требовать классы блока";
+"Include this class." = "Включить этот класс.";
+
+// Template Creation Sheet
+"Page Template Options" = "Параетры шаблона страниц";
+"Include Top Global Area Content" = "Include Top Global Area Content";
+"Include Bottom Global Area Content" = "Include Bottom Global Area Content";
+"Required Page Classes" = "Required Page Classes";
+"Include this class as part of the page template." = "Include this class as part of the page template.";
+
+// Remove Page Template Alert
+"Remove Page Template" = "Удалить шаблон страницы";
+"Are you sure you would like to permanently remove the (%@) Page Template from your library?" = "Вы уверены, что хотите навсегда удалить шаблон страницы (%@) из своей библиотеки??";
+"Yes, remove Page Template" = "Да, удалить шаблон страницы";
+
+// Extension Manager
+"Are you sure you want to uninstall %@?" = "Вы уверены, что хотите удалить %@?";
+"Are you sure you want to uninstall the selected extensions?" = "Вы уверены, что хотите удалить выбранные расширения?";
+"Yes, remove Extension" = "Да, удалить расширение";
+"Yes, remove Extensions" = "Да, удалить расширение";
+"Install Extension" = "Установить модуль расширения";
+"Uninstall Extension" = "Удалить модуль расширения";
+"No Updates Available" = "Нет доступных обновлений";
+"x%ld Update Available" = "x%ld Обновлений доступно";
+"x%ld Updates Available" = "x%ld Обновлений доступно";
+"Download and install update." = "Загрузить и установить обновления.";
+"Pages" = "Страницы";
+"Blocs" = "Блоки";
+"Brics" = "Модули";
+
+"Select a Blocs Extension (BEX) file to install." = "Выберите файл расширения Blocs Extension (BEX) для установки.";
+
+"All in-app notifications have now been reset." = "Все уведомления в приложении теперь сброшены.";
+
+// Install Extension
+"There is a newer version of this extension available, would you like to install it?" = "Существует более новая версия этого расширения, хотите ли вы установить ее?";
+"Yes, install" = "Да, установить";
+
+// Updates Available
+"Bric Updates Available" = "Доступн обновления модулей расширения";
+"There are some custom Bric updates available." = "Имеются некоторые пользовательские обновления модулей.";
+
+
+// Missing Assets
+"Blocs has found a number of currently missing assets in the last location you selected from. Would you like Blocs to auto connect these missing assets for you?" = "Blocs обнаружил ряд отсутствующих в настоящее время файлов из последнего места их добавления. Хотите, чтобы Blocs автоматически подключил эти недостающие активы за вас?";
+"Yes, Reconnect" = "Да, Переподключить";
+
+// Custom Attribute not allowed
+"This object already contains a custom attribute with this name." = "Этот объект уже содержит пользовательский атрибут с таким именем.";
+
+// Unsupported OS
+"Sorry, Blocs requires MacOS 10.13 or above." = "Простите, Blocs необходим macOS High Sierra (10.13) и старше.";
+
+// Bloc and Bric Bar Tooltips
+"Row Count" = "Row Count";
+"Add Blocs - Browse the Blocs Store." = "Добавить Blocs - Просмотреть магазин Blocs.";
+"Add Brics - Browse the Blocs Store." = "Добавить Brics - Просмотреть магазин Blocs.";
+
+// Bloc Bar Search
+"%d Blocs Found" = "%d Blocs Найден";
+
+// Bloc and Bric Bar Categories
+"Favourites" = "Избранное";
+"Structure" = "Структура";
+"Navigation" = "Навигация";
+"Hero" = "Hero";
+"Headers" = "Заголовки";
+"Features" = "Характеристики";
+"Gallery" = "Галлереи";
+"Call To" = "Позвонить в";
+"Socials" = "Социальные сети";
+"Devices" = "Устройства";
+"Specials" = "Прочее (Specials)";
+"Footers" = "Колонтитул (Footers)";
+"Forms" = "Формы";
+
+// Bloc and Bric Bar Row Height
+"1 Row" = "1 строка";
+"2 Rows" = "2 строки";
+"3 Rows" = "3 строки";
+"4 Rows" = "4 строки";
+"5 Rows" = "5 строк";
+"6 Rows" = "6 строк";
+
+
+// Sidebar Labels
+"Appearance" = "Внешний вид";
+"Animation" = "Анимации";
+"Tooltip" = "Подсказка при наведении";
+
+"ID" = "ID";
+"Classes" = "Классы";
+"Class" = "Класс";
+"Visibility" = "Видимость";
+"Alignment" = "Выравн.";
+"Colour" = "Цвета";
+"Interactions" = "Взаимодействие";
+"Bloc Edge Divider" = "Разделение краёв блока";
+"Edge" = "Края";
+"Orientation" = "Ориентация";
+"Target" = "Цель";
+"Target:" = "Цель:";
+"Target ID's" = "ID цели";
+"Number" = "Номер";
+"Email" = "Email";
+"Lightbox" = "Lightbox";
+"Open in new tab" = "Открыть в новой вкладке";
+"New tab" = "Новая вкладка";
+"No follow" = "rel = No follow";
+"Type" = "Тип";
+"Content" = "Контент";
+"Empty Area" = "Пустая зона";
+"Empty content area" = "Пустая зона контента";
+"Active" = "Active";
+"Style" = "Стиль";
+"Direction" = "Направл.";
+"Speed" = "Скорость";
+"Modal ID" = "ID модального окна";
+"Delay" = "Задержка";
+"Loops" = "Повторы";
+"Position" = "Позиция";
+"Parallax" = "Параллакс";
+"Padding" = "Padding";
+"Width" = "Width";
+"Height" = "Height";
+"Offset" = "Offset";
+"Order" = "Order";
+"Line Height" = "Высота линии";
+"Texture" = "Текстуры";
+"Video" = "Видео";
+"Rows" = "Ячеек";
+"Extra Rows" = "Дополнительные ряды";
+"Top" = "Вверху";
+"Bottom" = "Внизу";
+"Top Rows" = "Верхние ряды";
+"Bottom Rows" = "Нижние ряды";
+"Sticky" = "Закрелён";
+"Columns" = "Колонки";
+"Margin" = "Margin";
+"Gutters" = "Gutters";
+"Include Gutters" = "Include Gutters";
+"Source" = "Источник";
+"Typeface" = "Шрифт";
+"Type Settings" = "Настройки Шрифта";
+"Size" = "Размер";
+"Label" = "Название";
+"Corners" = "Углы";
+"URL" = "URL";
+"URL:" = "URL:";
+"Message" = "Сообщение";
+"Via" = "От";
+"Alt" = "Описание (Alt)";
+"Image Protection" = "Защита картинки";
+"Resolution" = "Разрешение";
+"@1x" = "@1x";
+"@2x" = "@2x";
+"@3x" = "@3x";
+"Frame" = "Рамка";
+"Transition" = "Переход";
+"Duration" = "Продолжительность";
+"Caption" = "Надписи";
+"Indicators" = "Индикаторы";
+"Edge Shadows" = "Тень на углах";
+"Slide" = "Слайд";
+"Action" = "Действие";
+"Method" = "Метод отправки";
+"Send To" = "Кому";
+"From" = "От кого";
+"Greeting" = "Приветствие";
+"Success" = "Успешно";
+"Fail" = "Ошибка";
+"Edit File" = "Редактировать файл"; // Check it
+"Edit Code" = "Редактировать код"; // Check it
+"Open Select Editor" = "Open Select Editor";
+"Items" = "Items";
+"Layout" = "Layout";
+"Checked" = "Выбрано";
+"Spacing" = "Spacing";
+"Toggle" = "Toggle";
+"Symbol" = "Symbol";
+"Footer" = "Footer";
+"Border" = "Border";
+"Close Btn" = "Close Btn";
+"Ratio" = "Ratio";
+"Required" = "Требовать";
+"Required Message" = "Required Message";
+"Error Message" = "Ошибка сообщения";
+"Embed Code" = "Embed Code";
+"Device" = "Устройство";
+"Screen" = "Экран";
+"Placeholder" = "Описание в поле";
+"Max Char" = "Max Char";
+"Value" = "Содержимое";
+"Group" = "Группа";
+"Shortname" = "Shortname";
+"Object" = "Object";
+"Block ID" = "Block ID";
+"Bric Name" = "Bric Name";
+"Bric Title" = "Bric Title";
+"Bric ID" = "Bric ID";
+"Template" = "Template";
+"Create Bric" = "Create Bric";
+"Icon" = "Иконка";
+"Include Icon" = "Добавить иконку";
+"Data" = "Данные";
+"Background" = "Фон";
+"Separate with comma" = "Разделяйте используя запятую";
+"Auto play" = "Авто воспроизведение";
+"Muted" = "Без звука";
+"Loop" = "Повтор";
+"Plays Inline" = "Вечный повтор";
+"Poster" = "Обложка видео";
+"Controls" = "Управление видео";
+"No Image" = "Нет картинки";
+"Nothing Selected" = "Ничего не выбрано";
+"No Content" = "Нет содержимого";
+"Selected" = "Выбрано";
+"Select an element to format" = "Выберите элемент для управления";
+"This page contains no content" = "На этой странице нет ничего";
+"Name" = "Имя";
+"Name:" = "Имя:";
+"Create New Page" = "Создать новую страницу";
+"Keywords" = "Ключевые слова";
+"Keywords:" = "Слова:";
+"Subject" = "Subject";
+"Logo" = "Логотип";
+"Theme" = "Тема";
+"String" = "Строка";
+"Separator" = "Граница";
+"Author" = "Автор";
+"Author:" = "Автор:";
+"Description" = "Описание";
+"HTML" = "HTML";
+"Function" = "Функция";
+"Attribute" = "Атрибут";
+"Icon@1x" = "Icon @1x";
+"Icon@2x" = "Icon @2x";
+"Cursor@1x" = "Cursor @1x";
+"Cursor@2x" = "Cursor @2x";
+"Preview" = "Предпросмотр";
+"Preview Content" = "Предпросмотр контента";
+"Version" = "Версия";
+"Includes" = "Includes";
+"Resources" = "Ресурсы";
+"Help URL" = "Help URL";
+"Info URL" = "Info URL";
+"Update URL" = "Update URL";
+"Category" = "Категории";
+"Category:" = "Категории:";
+"Preview Style" = "Предпросмотр стиля";
+"Remove Bric" = "Убрать Bric";
+"This is a reserved attribute." = "Это зарезервированный атрибут.";
+"Include Logo" = "Включить логотип";
+"Include Navigation" = "Включить меню";
+"Include Content Area" = "Включить свободную зону";
+"Open menus on hover" = "Открывать меню при наведении";
+"Thumb" = "Thumb";
+"Framework" = "Фреймворк";
+"Max Dimensions" = "Max Dimensions";
+"Breakpoint" = "Breakpoint";
+
+"Center" = "Центр";
+"Reset Image" = "Сбросить фото";
+
+// Bloc Background Style
+"Repeat" = "Repeat (Повторять)";
+"Center Left" = "Center Left (Центр слева)";
+"Center Right" = "Center Right";
+"Top Left" = "Top Left (Вверху слева)";
+"Top Right" = "Top Right";
+"Bottom Left" = "Bottom Left (внизу слева)";
+"Bottom Right" = "Bottom Right";
+
+// Bloc Textures
+"Fabric" = "Ткань";
+"Shapes" = "Фигуры";
+"Pixels" = "Пиксели";
+"Diagonal Line" = "Диагональные линии";
+"Vertical Line" = "Вертикальные линии";
+"Squared" = "Квадрат";
+"Squared Large" = "Squared Large";
+"Darken" = "Тёмный";
+"Darken Strong" = "Ещё темнее";
+
+// Carousel Slide Dropdown
+"Add New Slide" = "Добавить новый слайд";
+
+// Modal Size Dropdown
+"Fill Screen" = "Экран заполнения";
+
+// Form Type Dropdown
+"Self Hosted" = "Self Hosted";
+"Custom" = "Вручную";
+
+// Form Success Type
+"Show Message" = "Показать сообщение";
+"Go to Page" = "Перейти на страницу";
+"Go to URL" = "Перейти по ссылке";
+
+// Input Field Type Dropdown
+"Standard" = "Стандартно";
+"Password" = "Пароль";
+"Date" = "Дата";
+"Hidden" = "Скрыто";
+
+// Checkbox Style Dropdown
+"Checkbox" = "Checkbox";
+"Switch" = "Switch";
+
+// Video Type Dropdown
+"Local / Remote" = "Локально / Ссылка";
+
+// Audio Player Dropdown
+"No Audio" = "Без звука";
+
+// Divider Style Dropdown
+"Full" = "Полный";
+"Half" = "Половина";
+
+// Text Data Feed
+"Page Name" = "Название страницы";
+"SEO Page Title" = "SEO – Имя страницы";
+"SEO Page Description" = "SEO – Описание страницы";
+
+
+// Nav Toggle Icon Style
+"Standard Hamburger" = "Стандартный Гамбургер";
+"Thin Hamburger" = "Тонкий гамбургер";
+"Thick Hamburger" = "Толстый гамбургкр";
+"Rounded Hamburger" = "Закруглённый гамбургер";
+"Normal List" = "Нормальный список";
+"Rounded List With Dots" = "Закруглённый список с точками";
+"Uneven List" = "Неравномерный список";
+"Rounded Uneven List" = "Закруглённый неравномерный список";
+"Uneven Alternative List" = "Uneven Alternative List";
+"Rounded Alternative List" = "Rounded Alternative List";
+"Circles Horizontal" = "Горизонтальные круги";
+"Circles Vertical" = "Вертикальные круги";
+"Squares Horizontal" = "Горизонтальные квадраты";
+"Squares Vertical" = "Мертикальные квадраты";
+"Two Bars" = "Два бара";
+"Two Bars Thick" = "Толстые два бара";
+
+
+// Nav Toggle Menu Style
+"Dropdown Menu" = "Раскрывающиеся меню";
+"Sidebar Menu" = "Меню боковой панели";
+"Full Screen Menu" = "Полноэкранное меню";
+
+
+// Wordpress Data Feed Menu Items
+"Title - Post | Page" = "Title - Post | Page";
+"Content - Post | Page" = "Content - Post | Page";
+"Publish Date - Post | Page" = "Publish Date - Post | Page";
+"Edit Date - Post | Page" = "Edit Date - Post | Page";
+"Excerpt - Post | Page" = "Excerpt - Post | Page";
+"Author - Post | Page" = "Author - Post | Page";
+"Author First Name - Post | Page" = "Author First Name - Post | Page";
+"Author Last Name - Post | Page" = "Author Last Name - Post | Page";
+"Author Username - Post | Page" = "Author Username - Post | Page";
+"Author Email - Post | Page" = "Author Email - Post | Page";
+"Author Bio - Post | Page" = "Author Bio - Post | Page";
+"Author Website - Post | Page" = "Author Website - Post | Page";
+"Username - Logged in" = "Username - Logged in";
+"User First Name - Logged in" = "User First Name - Logged in";
+"User Last Name - Logged in" = "User Last Name - Logged in";
+"User Email - Logged in" = "User Email - Logged in";
+"User Bio - Logged in" = "User Bio - Logged in";
+"User Website - Logged in" = "User Website - Logged in";
+"Site Title" = "Site Title";
+"Site Tagline" = "Site Tagline";
+"Archive Title" = "Archive Title";
+"Archive Description" = "Archive Description";
+"Featured Image" = "Featured Image";
+"Featured Image (SM)" = "Featured Image (SM)";
+"Featured Image (MD)" = "Featured Image (MD)";
+"Featured Image (LG)" = "Featured Image (LG)";
+"Featured Image (Full)" = "Featured Image (Full)";
+"Author Avatar" = "Author Avatar";
+"Author Avatar (MD)" = "Author Avatar (MD)";
+"Author Avatar (LG)" = "Author Avatar (LG)";
+
+
+
+// Wordpress Loop Controls
+"Wordpress Loop" = "Wordpress Loop";
+"Post" = "Post";
+"All Posts Types" = "All Posts Types";
+"All Custom Posts Types" = "All Custom Posts Types";
+"Post Author" = "Post Author";
+"Current User" = "Current User";
+"Posts Per Page" = "Posts Per Page";
+"Category ID's" = "Category ID's";
+"Category Tags" = "Category Tags";
+"Exclude Post ID's" = "Exclude Post ID's";
+
+
+// Shape Divider Options
+"Slant" = "Slant";
+"Slant Opacity" = "Slant Opacity";
+"Curve" = "Curve";
+"Curve Left" = "Curve Left";
+"Curve Right" = "Curve Right";
+"Zigzag" = "Zigzag";
+"Arrow" = "Arrow";
+"Fan" = "Fan";
+"Triangle Asymmetrical" = "Triangle Asymmetrical";
+"Clouds" = "Clouds";
+"Waves" = "Waves";
+"Waves Opacity" = "Waves Opacity";
+"Mountains" = "Mountains";
+"Grass" = "Grass";
+"Paper" = "Paper";
+"Straight" = "Straight";
+"Flip X" = "Ось X";
+"Flip Y" = "Ость Y";
+
+
+// Animation
+"Appear on Screen" = "При появлении на экране";
+"Mouse Over" = "При наведении мыши";
+"Infinite" = "Бесконечно";
+"Fast" = "Быстро";
+"Normal" = "Нормально";
+"Lazy" = "Медленно";
+"Slow" = "Очень медленно";
+"Snail" = "Улитка";
+"Puff In" = "Puff In";
+"Blur In" = "Blur In";
+"Bounce In" = "Bounce In";
+"Bounce" = "Bounce";
+"Flip" = "Переворот";
+"Rotate In" = "Rotate In";
+"Roll In" = "Roll In";
+"Rubber Band" = "Rubber Band";
+"Shake" = "Shake";
+"Swing" = "Swing";
+"Ta Da" = "Ta Da";
+"Wobble" = "Wobble";
+"Jello" = "Jello";
+"Flash" = "Flash";
+"Pulse" = "Pulse";
+"Light Speed In" = "Light Speed In";
+
+// Scroll FX
+"Scroll FX" = "Эффекты при скролле";
+"Scroll In" = "Появл.";
+"Scroll Out" = "Исчезн.";
+"Fade In" = "Затухание";
+"Fade Out" = "Появление";
+"Continuous" = "Непрерывно";
+"Scroll FX zoom." = "Scroll FX зум.";
+"The scroll FX will not temporarily pause when the element reaches its original position on the screen." = "Прокрутка FX не будет временно приостанавливаться, когда элемент достигает своего исходного положения на экране.";
+
+// Custom Attributes
+"Custom Attributes" = "Персональные аттрибуты";
+"Add custom attribute." = "добавить свой аттрибут.";
+"Remove custom attribute." = "Удалить аттрибут.";
+
+// Wordpress
+"Duplicate Value" = "Дублировать значение";
+"Sorry a custom data object already exists with this name." = "Sorry a custom data object already exists with this name.";
+"Would you like to load the live site data from the domain (%@) into Blocs to use as simulation content? Please note, the data will only be available if the domain (%@) is currently running Wordpress." = "Would you like to load the live site data from the domain (%@) into Blocs to use as simulation content? Please note, the data will only be available if the domain (%@) is currently running Wordpress.";
+"The web address for your project has been changed, would you like to refresh the site simulation data?" = "The web address for your project has been changed, would you like to refresh the site simulation data?";
+"Sorry, Blocs is not able to load any Wordpress data from the domain %@." = "Sorry, Blocs is not able to load any Wordpress data from the domain %@.";
+"There is no web address URL set in project settings. Please set it to a URL of a site that is currently running Wordpress." = "There is no web address URL set in project settings. Please set it to a URL of a site that is currently running Wordpress.";
+"To export a Wordpress theme you will need to upgrade to Blocs Plus." = "To export a Wordpress theme you will need to upgrade to Blocs Plus.";
+"To add more custom post and field types, you will need to upgrade to Blocs Plus." = "To add more custom post and field types, you will need to upgrade to Blocs Plus.";
+"Would you like Blocs to automatically generate all of the required pages for a Wordpress theme?" = "Would you like Blocs to automatically generate all of the required pages for a Wordpress theme?";
+
+// Custom Brics
+"The current custom Bric has unsaved changes, would you like to save them?" = "Текущий пользовательский Bric имеет несохраненные изменения, хотите ли вы сохранить их?";
+"The current custom Bloc has unsaved changes, would you like to save them?" = "Текущий пользовательский блок имеет несохраненные изменения, хотите ли вы сохранить их?";
+"The title will be displayed at the top of the sidebar, when your Bric is selected for editing." = "Название будет отображаться в верхней части боковой панели, когда ваш Bric будет выбрана для редактирования.";
+"The ID helps identify your custom Bric. It's important that you use something unique e.g. johns-doe-gallery-bric-817165JD." = "Идентификатор помогает идентифицировать ваш пользовательский Bric. Важно, чтобы вы использовали что-то уникальное, например: johns-doe-gallery-bric-817165JD.";
+"The author info is displayed in the Blocs Extension Manager." = "Информация об авторе отображается в менеджере расширений Blocs.";
+"The keywords are used to find your custom Bric in the Brics library using the search field." = "Ключевые слова используются для поиска пользовательского Bric в библиотеке Brics с помощью поля поиска.";
+"The description will be shown when your custom Brics info button is clicked in the Brics library." = "Описание будет отображаться при нажатии на вашу пользовательскую информационную кнопку в библиотеке Brics.";
+"The version number of your custom Bric." = "Номер версии вашего пользовательского Bric.";
+"The URL users of your Bric can get help from." = "Пользователи URL-адреса вашего Bric могут получить помощь от.";
+"The URL users of your Bric can get additional info from." = "Пользователи URL вашего Bric могут получить дополнительную информацию из.";
+"The URL used to check for Bric updates." = "URL-адрес, используемый для проверки обновлений Bric.";
+"The initial HTML that your custom Bric adds to a page." = "Начальный HTML, который ваш пользовательский Bric добавляет на страницу.";
+"The title for the interface element. Typically displayed on the left side of the sidebar." = "Заголовок для элемента интерфейса. Обычно отображается в левой части боковой панели.";
+"The function name that is called when this interface element is interacted with. Only include function name, don't include ()." = "Имя функции, которая вызывается при взаимодействии с этим элементом интерфейса. Пишите только имя функции без фигурных скобок ().";
+"The attribute name used to store the data value for this interface element." = "Имя атрибута, используемое для хранения значения данных для этого элемента интерфейса.";
+"The initial attribute data value of this interface element." = "Начальное значение данных атрибута этого элемента интерфейса.";
+"The tooltip text displayed when cursor is over component." = "Текст подсказки, отображаемый при наведении курсора на компонент.";
+"When your custom Bric is added to a page, any files in this list will be automatically added to the page as header attachments." = "Когда ваш пользовательский Bric добавляется на страницу, любые файлы из этого списка будут автоматически добавлены на страницу в качестве вложений заголовка.";
+"All resource files can be accessed in your custom Brics HTML and functions using *resource-path e.g. *resource-path/my-img.png." = "Ко всем файлам ресурсов можно получить доступ в ваших пользовательских HTML и функции Brics, используя *путь-к-ресурсу например: *resource-path/my-img.png.";
+"The preview style for your custom Bric as seen in the sidebar Bric Library preview area." = "Стиль предварительного просмотра для вашего пользовательского Bric, как показано в области предварительного просмотра боковой панели Bric Library.";
+"The initial template values for your custom Bric if it uses the API call storeCustomBricTemplateVal." = "Начальные значения шаблона для вашего пользовательского Bric, если он использует вызов API storeCustomBricTemplateVal.";
+"The category this Bric will be displayed under in the Bric Library." = "Категория, под которой будет отображаться данный кирпич в библиотеке кирпичей.";
+"The framework this Bric supports and is recommended to be used with." = "Фреймворк, который поддерживает этот Bric, и который рекомендуется использовать с.";
+"This Bric may not function correctly with the current project framework." = "Этот Bric может работать некорректно с текущим фреймворком проекта.";
+"Get support from the developer." = "Получите поддержку от разработчика.";
+
+// Migrate
+"Migrate" = "Мигрировать";
+"You are about to upgrade the framework of this project from %@ to %@. Please note, this cannot be undone. Are you sure you would like to continue?" = "Вы собираетесь обновить фреймворк этого проекта с %@ до %@. Обратите внимание, что это нельзя отменить. Вы уверены, что хотите продолжить?";
+"This project was created with an older version of Blocs and is built using the Bootstrap 3 framework. In order to use this project in this version of Blocs you will first need to migrate the project code base to Bootstrap 4. Please be aware your site may display major visual differences such as larger text due to the core framework changes. It's recommended that you make backups of your projects before you migrate them." = "Этот проект был создан в старой версии Blocs и построен с использованием фреймворка Bootstrap 3. Чтобы использовать этот проект в данной версии Blocs, вам сначала нужно будет перенести кодовую базу проекта на Bootstrap 4. Пожалуйста, имейте в виду, что ваш сайт может иметь значительные визуальные различия, например, более крупный текст, из-за изменений в основном фреймворке. Рекомендуется сделать резервные копии ваших проектов перед миграцией.";
+"Yes, migrate project" = "Да, мигрировать проект";
+
+"This project has been successfully migrated to the %@ framework. After a change of this scale, we recommend testing all aspects of the site before it is moved into production." = "Этот проект был успешно переведен на фреймворк %@. После изменений такого масштаба мы рекомендуем протестировать все аспекты сайта перед его переносом в производство.";
+
+// Notices
+"IMPORTANT! The code widget in-app preview should only be used for plain HTML, if you intend to place JS, PHP or any other code into this widget, please take care to switch off the widgets live preview. Pasting in executable code such as JS may corrupt your Blocs project file." = "ВАЖНО! Виджет предварительного просмотра кода в приложении должен использоваться только для обычного HTML, если вы собираетесь поместить JS, PHP или любой другой код в этот виджет, пожалуйста, позаботьтесь о том, чтобы отключить предварительный просмотр виджета в реальном времени. Вставка исполняемого кода, такого как JS, может привести к повреждению файла проекта Blocs.";
+"Changes to the main application colour theme will not take effect until Blocs is restarted." = "Изменения цветовой темы основного приложения вступят в силу только после перезапуска Blocs.";
+"Changes to the main application language will not take effect until Blocs is restarted." = "Изменения основного языка приложения вступят в силу только после перезапуска Blocs.";
+
+
+"Disqus Notice" = "Обратите внимание, что виджет Disqus не отображается и не функционирует как ожидается в среде дизайна Blocs, это просто заполнитель, используемый в целях дизайна. Когда ваш сайт будет экспортирован и размещен в Интернете, виджет Disqus будет загружаться и функционировать как положено.";
+
+// Image Protection Warning
+"Image protection is currently enabled for all site images. To manage protection per image, please disable this option in the main project settings." = "В настоящее время защита изображений включена для всех изображений сайта. Чтобы управлять защитой каждого изображения, отключите эту опцию в основных настройках проекта.";
+
+// Langauge Settings
+"Would you like to update this setting for all pages?" = "Вы хотите обновить этот параметр для всех страниц?";
+"Update Page Settings" = "Обновить настройки страницы"; // Check it
+"Yes, update all pages." = "Да, обновить все страницы.";
+
+
+// Backup Vault
+"Select backup vault location" = "Выберите местоположение хранилища резервных копий";
+
+
+// SEO Helper
+"The current page is optmized effectively for the keyword (%@)." = "Текущая страница эффективно оптимизирована для ключевого слова (%@).";
+"Enter a keyword or phrase you would like to optimize the current page for and all of the page optimization factors and actionable suggestions will be displayed." = "Введите ключевое слово или фразу, по которой вы хотите оптимизировать текущую страницу, и на экране появятся все факторы оптимизации страницы и практические предложения.";
+"Without Blocs Plus only the home page can be scanned. Upgrade to Blocs Plus to scan any page." = "Без Blocs Plus можно отсканировать только главную страницу. Чтобы отсканировать любую страницу, перейдите на Blocs Plus.";
+"Keyword:" = "Ключевое слово:";
+"Results" = "Результат";
+"Improvement" = "Улучшение";
+"Improvements" = "Улучшения";
+
+
+// SEO Helper Warnings
+"The page title (Browser Title) doesn't contain this keyword, it should be added preferably as one of the first words." = "Заголовок страницы (Browser Title) не содержит этого ключевого слова, его следует добавить, желательно в качестве одного из первых слов.";
+"The page description doesn't contain this keyword." = "Описание страницы не содержит этого ключевого слова.";
+"The page name doesn't contain this keyword. Not essential but it may help inprove SERP." = "Название страницы не содержит этого ключевого слова. Это не обязательно, но может помочь улучшить SERP.";
+"The page h1 tag doesn't contain this keyword, it should be added preferably as one of the first words." = "Тег h1 страницы не содержит этого ключевого слова, его следует добавить, желательно в качестве одного из первых слов.";
+"The text content of this page does not contain this keyword." = "Текстовое содержимое этой страницы не содержит этого ключевого слова.";
+"The current page does not include a H1 text Bric, we recommend including at least one per page." = "На текущей странице отсутствует текстовый брик H1, мы рекомендуем включать как минимум один на страницу.";
+
+
+// Image Editor
+"Dimensions" = "Размеры";
+"Crop" = "Обрезать";
+"Adjustments" = "Корректировки";
+"Width:" = "Ширина:";
+"Height:" = "Высота:";
+"Quality:" = "Качество:";
+"Mode:" = "Режим:";
+"X:" = "X:";
+"Y:" = "Y:";
+"Reset" = "Сбросить";
+"File Name:" = "Имя файла:";
+"Generate @1x and @2x copies" = "Создание @1x и @2x копий";
+"Generate @1x and @2x resolution copies when the image is saved. The @1x image will be half the size of the current image." = "Создайте копии с разрешением @1x и @2x при сохранении изображения. Изображение @1x будет вдвое меньше текущего изображения.";
+"Removes all image adjustments." = "Удаляет все корректировки изображения.";
+"Remove Selected Adjustment" = "Удалить выбранную настройку";
+"Add Adjustment" = "Добавить корректировку";
+"Toggle visibility of all adjustments." = "Переключение видимости всех настроек.";
+"Save Image" = "Сохранить картинку";
+"Save Image (⌘S)" = "Сохранить картинку (⌘S)";
+"Estimated File Size: %.2f MB" = "Предполагаемый размер файла: %.2f MB";
+"The current image has been edited. Would you like to save these changes?" = "Текущее изображение было отредактировано. Вы хотите сохранить эти изменения?";
+"Rotate 90°" = "Rotate 90°";
+"Flip Vertically" = "Перевернуть вертикально";
+"Flip Horizontally" = "Перевернуть горизонтально";
+"Adjust Image Quality" = "Настройка качества изображения";
+"Edit Crop Mask" = "Редактирование маски обрезки";
+"Crop Mode" = "Режим обрезки";
+"Image Saved" = "Картинка сохранена";
+"Sorry, there was a problem downloading the image to edit." = "Извините, возникла проблема с загрузкой изображения для редактирования.";
+"Select a location for your image." = "Выберите местоположение для изображения.";
+"Edited images can only be saved with Blocs Plus." = "Отредактированные изображения можно сохранить только с помощью Blocs Plus.";
+"Buy Blocs Plus" = "Buy Blocs Plus";
+"Processing..." = "В процессе...";
+"Crop (C)" = "Обрезать (C)";
+"Rotate 90° (⌘R)" = "Повернуть на 90° (⌘R)";
+"Flip Horizontally (H)" = "Перевернуть горизонтально (H)";
+"Flip Vertically (V)" = "Перевернуть вертикально (V)";
+"Toggle Adjustment Visibility" = "Переключение видимости регулировки";
+"Unconstrained" = "Без ограничений";
+"Original Ratio" = "Исходное соотношение";
+"Ratio 1:1" = "Ratio 1:1";
+"Ratio 3:1" = "Ratio 3:1";
+"Ratio 4:3" = "Ratio 4:3";
+"Ratio 16:9" = "Ratio 16:9";
+
+// Adjustment Filters
+"Contrast" = "Контраст";
+"Saturation" = "Насыщенность";
+"Brightness" = "Яркость";
+"Sharpness" = "Резкость";
+"Box Blur" = "Размытие Box";
+"Gaussian Blur" = "Размытие по Гауссу";
+"Sepia Tone" = "Тон Сэпии";
+"Posterize" = "Posterize";
+"Vibrance" = "Vibrance";
+
+
+// Preferences
+"Feedback" = "Отзывы";
+"Code" = "Код";
+"License" = "Лицензия";
+"Application Theme:" = "Тема приложения:";
+"Bloc Bar Rows:" = "Bloc Bar Rows:";
+"Bric Bar Rows:" = "Bric Bar Rows:";
+"Application Fonts:" = "Шрифты приложения:";
+"Manage Fonts" = "Менеджер Шрифтов";
+"Dark" = "Тёмная";
+"Light" = "Светлая";
+"Preview Browser:" = "В браузере:";
+"Preview Type:" = "Тип:";
+"Preview Port:" = "Порт:";
+"Local Server" = "Локальный сервер";
+"File Preview" = "Предпросмотр файла"; // Check it
+"Reset Notifications" = "Сбросить уведомления";
+"Reset to Default" = "Сброить по умолчанию";
+"Max Backups:" = "Максимально копий:";
+"Backup Every:" = "Копировать каждые :";
+"Vault Location:" = "Расположение хранилища:";
+"Select Location..." = "Выбрать хранилище...";
+"Enable auto backup" = "Включить авто бекап";
+"Deactivate License" = "Деактивировать лицензию";
+
+// Language Selection
+"English" = "Английский";
+"French" = "Французский";
+"German" = "Немецкий";
+"Spanish" = "Испанский";
+"Portuguese" = "Португальский";
+"Italian" = "Итальянский";
+"Dutch" = "Голландский";
+"Japanese" = "Японский";
+"Russian" = "Русский";
+
+// Backup Timer Menu Items
+"3 Minutes" = "3 Минуты";
+"5 Minutes" = "5 Минут";
+"10 Minutes" = "10 Минут";
+"15 Minutes" = "15 Минут";
+"20 Minutes" = "20 Минут";
+"30 Minutes" = "30 Минут";
+"Hour" = "Час";
+
+// Prefs Checkbox Titles
+"Automatically check for updates" = "Автоматическая проверка обновлений";
+"Enable canvas auto zoom" = "Включить автозум холста";
+"Enable canvas broadcasting" = "Включить подсказки на холсте"; // Check it
+"Enable stylus canvas controls" = "Enable stylus canvas controls";
+"Enable Asset Manger preview in-place" = "Enable Asset Manger preview in-place";
+"Enable Asset Manager scroll to asset" = "Enable Asset Manager scroll to asset";
+"Auto embed project assets in new project" = "Автоматически встраивать вложения";
+"Enable API Developer Mode" = "Включить API Режима разработчика";
+"Enable Drop Mode (Legacy)" = "Включить Drop Mode (Legacy)";
+"Enable haptic feedback" = "Включить тактильную отдачу";
+"Play app sounds effects" = "Проигрывать звуковые эффекты";
+"Include store products in search results" = "Включить товары магазина в поиск";
+"Show sub-windows when app not active" = "Показывать окна Blocs пока прога не активна";
+
+// Prefs Checkbox Tooltips
+"Toggle Auto updates on/off." = "Переключатель Авто обновления вкл/выкл.";
+"Toggle auto zoom on/off." = "Переключатель Авто зум вкл/выкл.";
+"Used To connect with Solis." = "Интеграция с Solis.";
+"Show stylus controls." = "Показывать элементы управления стилусом.";
+"Preview Asset Manager assets in place." = "Предварительный просмотр вложений в Asset Manager.";
+"Scroll to selected asset in Asset Manager." = "Прокрутите до выбранного вложения в Менеджере вложений.";
+"Auto embed project assets in new projects." = "Автоматическое встраивание вложений проекта в новые проекты.";
+"Prevents runtime cache for developing custom Brics." = "Предотвращает кэш времени выполнения для разработки пользовательских Кирпичей.";
+"Drop mode lets you drop items onto the design canvas. This is a legacy feature and will be removed from Blocs in the future." = "Режим Drop позволяет перемещать элементы на холст дизайна. Это устаревшая функция, и в будущем она будет удалена из Blocs.";
+"Include Blocs Store products in search results." = "Включать модули из Blocs Store в результаты поиска.";
+"Keep application sub-windows visible when Blocs is not the active app." = "Сохранять видимыми внутренние окна приложения, пока основное приложение Blocs не является активным.";
+
+
+// Hype Animation
+"Hype Preview Unavailable" = "Hype Preview Недоступен";
+"In order to preview a Hype animation, you must have a Blocs project open that contains a Hype preview Bric." = "Для того чтобы просмотреть анимацию Hype, у вас должен быть открыт проект Blocs, содержащий Bric для предварительного просмотра Hype..";
+
+// Set Up Welcome
+"Welcome to Blocs" = "Добро пожаловать в Blocs";
+"Before you start creating amazing websites, let's get Blocs set up to best suit your workflow." = "Прежде чем вы начнете создавать удивительные веб-сайты, давайте настроим Blocs так, чтобы он наилучшим образом соответствовал вашему рабочему процессу.";
+
+// Migrate Add-ons Slide
+"Migrate Add-ons" = "Перенести дополнения";
+"Would you like to migrate all of your fonts, page templates, custom Blocs and Brics from the older versions of Blocs on your Mac?" = "Хотите перенести все свои шрифты, шаблоны страниц, пользовательские Blocs и модули из старых версий Blocs на ваш Mac?";
+
+"Please note, migration does not change or affect the setup of previous versions of Blocs on your Mac. It's recommended that you keep this option enabled." = "Пожалуйста заметьте, что миграция не изменяет и не влияет на установку предыдущих версий Blocs на вашем Mac. Рекомендуется оставить эту опцию включенной.";
+
+
+// Auto Backup Slide
+"Auto Backup" = "Автоматический бекап";
+"Blocs can now create and store automatic backups of your projects while they are being worked on, would you like to enable this feature?" = "Blocs теперь может создавать и хранить автоматические резервные копии ваших проектов во время работы над ними, хотите ли вы включить эту функцию?";
+"Backups will occur every 30 minutes. Please note: all aspects of the auto backup feature can be customised via the main application preferences." = "Резервное копирование будет происходить каждые 30 минут. Обратите внимание: все аспекты функции автоматического резервного копирования можно настроить в основных настройках приложения.";
+"The Backup directory assigned in the main application preferences does not exist." = "Каталог резервного копирования, назначенный в основных настройках приложения, не существует.";
+
+// Auto Embed Slide
+"Auto Embed Assets" = "Автоматическое встраивание Вложений";
+"Would you like Blocs to automatically embed assets such as images and videos into project files or link to them externally?" = "В Blocs есть система уведомлений, которая предоставляет полезную информацию о ключевых функциях во время работы.?";
+
+// In App Notifications Slide
+"In-App Notifications" = "Уведомления в приложении";
+"Blocs has a build notification system that will present helpful information about key features while you work, would you like these enabled?" = "В Blocs есть система уведомлений, которая предоставляет полезную информацию о ключевых функциях во время работы, хотите ли вы, чтобы эти уведомления были включены??";
+
+// Set Up Welcome
+"Setup Complete" = "Настройка завершена";
+"You're ready to go! If you would like to make changes to these options in future, all options can be accessed via the Blocs main application preferences." = "Вы готовы к работе! Если в будущем вы захотите внести изменения в эти опции, все они доступны через настройки основного приложения Blocs.";
+
+// Setup Checkboxes
+"Yes, migrate all add-ons" = "Да, мигрировать все дополнения";
+"Yes, enable automatic project backups" = "Да, включить автоматические бекапы";
+"Yes, automatically embed assets into files" = "Да, автоматически встраивать вложения в проект";
+"Yes, enable in app notifications" = "Да, включить уведомления в приложении";
+
+// Status Report
+"Generate Status Report" = "Сгенерировать отчёт";
+"Select a location to store your status report." = "Выберите место для хранения отчета о состоянии.";
+
+
+// Trial Window
+"You are currently running Blocs in trial mode, this means the following trial limitations are in place. Please note, the full version of Blocs does not have these limitations." = "В настоящее время вы используете Blocs в пробном режиме, что означает следующие ограничения пробной версии. Обратите внимание, что полная версия Blocs не имеет этих ограничений.";
+"• Projects cannot be exported to code." = "• Projects cannot be exported to code.";
+"• Projects cannot be previewed in Browser." = "• Projects cannot be previewed in Browser.";
+"• WKWebkit developer tools are disabled." = "• WKWebkit developer tools are disabled.";
+"• Installation of additional fonts is disabled." = "• Installation of additional fonts is disabled.";
+"Get License" = "Get License";
+
+
+// Keyboard Shortcuts
+"Breakpoints" = "Breakpoints";
+"Windows" = "Windows";
+"Select Next Page" = "Выбрать следующую страницу";
+"Select Previous Page" = "Выбрать предыдущую страницу";
+"Show Bloc/Bric Bar (above)" = "Show Bloc/Bric Bar (above)";
+"Show Bloc/Bric Bar (below)" = "Show Bloc/Bric Bar (below)";
+"Duplicate Element" = "Дублировать элемент";
+"Delete Element" = "Удалить элемент";
+"LG Breakpoint" = "LG ПК/Ноутбук";
+"MD Breakpoint" = "MD Планш. вертикал.";
+"SM Breakpoint" = "SM Планш. горизонт.";
+"XS Breakpoint" = "XS iPhone 5/SE";
+"Save As" = "Сохранить как";
+
+
+// Undo States
+"Custom Bric Change" = "Custom Bric Change";
+"Place Bric" = "Place Bric";
+"Move Bric" = "Переместить модуль";
+"Alignment Nudge" = "Alignment Nudge";
+"Scale Up" = "Scale Up";
+"Scale Down" = "Scale Down";
+"Add Image" = "Добавить фото";
+"Set Text Content" = "Задать содержание текста";
+"Set ID" = "Set ID";
+"Label Edit" = "Редактировать Label";
+"Logo Text Edit" = "Изменить текст лого";
+"Resize Image" = "Изменить размер изображения";
+"List Count" = "Подсчет списков";
+"Accordion Count" = "Accordion Count";
+"Input Max Length" = "Input максимальная длина";
+"Tooltip Position" = "Положение подсказки";
+"Set Wordpress Post Loop Type" = "Set Wordpress Post Loop Type";
+"Set Wordpress Post Per Page" = "Set Wordpress Post Per Page";
+"Set Wordpress Post Categories" = "Set Wordpress Post Categories";
+"Set Wordpress Post Tags" = "Set Wordpress Post Tags";
+"Set Wordpress Exclude Post ID" = "Set Wordpress Exclude Post ID";
+"Bloc Edge Divider Type" = "Bloc Edge Divider Type";
+"Bloc Edge Divider Size" = "Bloc Edge Divider Size";
+"Bloc Edge Flip" = "Bloc Edge Flip";
+"Bloc Horizontal Padding" = "Bloc Horizontal Padding";
+"Bloc Divider" = "Bloc Divider";
+"Bloc Sticky Setting" = "Bloc Sticky Setting";
+"Add Top Row" = "Add Top Row";
+"Remove Top Row" = "Remove Top Row";
+"Set Background Image Style" = "Set Background Image Style";
+"Set Background Parallax" = "Set Background Parallax";
+"Add Video Background" = "Add Video Background";
+"Text Tag Level" = "Text Tag Level";
+"Marker Visibility" = "Marker Visibility";
+"Set Icon" = "Установить иконку";
+"Shape" = "Фигура";
+"Toggle Image Protection" = "Toggle Image Protection";
+"Set Form Type" = "Set Form Type";
+"Set Form Method" = "Set Form Method";
+"Set Form Success Type" = "Set Form Success Type";
+"Set Redirect Page" = "Set Redirect Page";
+"Set Checkbox State" = "Set Checkbox State";
+"List Style" = "List Style";
+"Set Navbar Theme" = "Set Navbar Theme";
+"Toggle Menu Settings" = "Toggle Menu Settings";
+"Menu Symbol Change" ="Menu Symbol Change";
+"Toggle Selected Item" = "Toggle Selected Item";
+"Device Type" = "Тип устройства";
+"Device Screen Type" = "Тип экрана устройства";
+"Change Video Type" = "Change Video Type";
+"Aspect Ratio" = "Aspect Ratio";
+"Plays Inline" = "Plays Inline";
+"Clear Video Poster" = "Clear Video Poster";
+"Audio Track" = "Audio Track";
+"Change Modal Animate Setting" = "Изменить анимацию модального окна";
+"Change Modal Position" = "Изменить позицию модального окна";
+"Change Modal Size" = "Изменить размер модального окна";
+"Change Interaction" = "Change Interaction";
+"Set Page" = "Установить страницу";
+"Change Lightbox Type" = "Change Lightbox Type";
+"Change File Download" = "Change File Download";
+"Change Modal Interaction" = "Change Modal Interaction";
+"Change Wordpress Link Interaction" = "Change Wordpress Link Interaction";
+"Set Success Type" = "Set Success Type";
+"Make CMS editable" = "Make CMS editable";
+"Delete Bloc" = "Удалить Bloc";
+"Delete Bloc Group" = "Удалить группу Bloc";
+"Delete Row" = "Удалить Row";
+"Delete Column" = "Удалить Column";
+"Delete Nav Bar Item" = "Delete Nav Bar Item";
+"Delete Bric" = "Удалить Bric";
+"Add Carousel Slide" = "Add Carousel Slide";
+"Remove Carousel Slide" = "Remove Carousel Slide";
+"Create Link" = "Создать ссылку";
+"Create Text Style Area" = "Create Text Style Area";
+"Insert Text Item" = "Напишите текст";
+"Convert Selected Text To Header" = "Convert Selected Text To Header";
+"Clear Formating" ="Очистить форматирование";
+"Change Video Poster" = "Change Video Poster";
+"Set Multi Res Image" = "Set Multi Res Image";
+"Change Snipcart Product Image" = "Change Snipcart Product Image";
+"Set Background Image" = "Установить фоновое изображение";
+"Replace Image" = "Заменить изображение";
+"Resize Column" = "Изменить размер Column";
+"Clear Bloc Background Image" = "Очистить фоновое изображение Блока";
+"Add Bloc" = "Добавить Bloc";
+"Move To Global Area" = "Переместить в глобальную зону";
+"Move To Dynamic Area" = "Переместить в динамическую зону";
+"Nudge Up" = "Nudge Up";
+"Nudge Down" = "Nudge Down";
+"Nudge Left" = "Nudge Left";
+"Nudge Right" = "Nudge Right";
+"Apply Color" = "Apply Color";
+"Remove Color" = "Удалить цвет";
+"Typing" = "Ввод";
+"Cut Text" = "Вырезать текст";
+"Cut Bloc" = "Вырезать блок";
+"Cut Bloc Group" = "Cut Bloc Group";
+"Cut Bric" = "Cut Bric";
+"Paste Text" = "Вставить текст";
+"Paste Bloc" = "Вставить Bloc";
+"Paste Bloc Group" = "Вставить группу Bloc";
+"Paste Bric" = "Вставить Bric";
+"Reset Animation Settings" = "Сброс настроек анимации";
+"Reset Scroll FX Settings" = "Reset Scroll FX Settings";
+
