@@ -1555,7 +1555,7 @@
 "Additional CSS (style.css)" = "Дополнительный CSS (style.css)";
 
 // Search bar
-"Search Pages" = "Страницы поиска";
+"Search Pages" = "Поиск Страницы";
 "Search Pages - %ld" = "Поиск страниц - %ld"; // Check it
 "Search Templates" = "Поиск шаблона";
 "Search Brics" = "Поиск Модуля";
@@ -1748,7 +1748,7 @@
 // Page Settings General Checkbox Tooltips
 "Add fixed viewport meta tag to page head." = "Добавьте метатег фиксированной области просмотра в шапку страницы.";
 "Add user-scalable=no to viewport meta tag." = "Добавьте user-scalable=no в метатег viewport.";
-"Include a scroll to top button on this page." = "Включите кнопку прокрутки к верху на этой странице.";
+"Include a scroll to top button on this page." = "Включить прокрутку к началу этой страницы.";
 "Include a link to this page in the Primary menu." = "Вставить ссылку на эту страницу в Главное Меню.";
 "Exclude this page when the site is exported." = "Исключить эту страницу при экспорте сайта.";
 "Include a meta tag and small link that credits Blocs." = "Включите мета-тег и небольшую ссылку, кредитующую Blocs.";
